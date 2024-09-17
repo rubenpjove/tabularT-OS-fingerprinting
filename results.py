@@ -2,8 +2,6 @@ import pandas as pd
 from sklearn import metrics
 import seaborn as sns
 import matplotlib.pyplot as plt
-import numpy as np
-from sklearn.preprocessing import label_binarize
 import sys
 
 # Function to load and evaluate predictions from CSV file
@@ -119,7 +117,12 @@ def evaluate_multiclass_classification(path):
 
 # Example usage:
 if __name__ == "__main__":
-    path = '.\\nmap\\results\\results-nmap-tabt-minor\\results\\'  # Replace with your CSV file path
+    if len(sys.argv) > 1:
+        path = sys.argv[1]
+        if not path.endswith('\\'):
+            path += '\\'
+    else:
+        path = '.\\'  # Replace with your CSV file path
     sys.stdout = open(path+'..\\metrics.txt', 'w')
     evaluate_multiclass_classification(path)
     sys.stdout.close()
