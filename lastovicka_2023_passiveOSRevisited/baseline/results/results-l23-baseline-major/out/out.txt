@@ -1,0 +1,100 @@
+slurmstepd: info: Setting TMPDIR to /scratch/7880533. Previous errors about TMPDIR can be discarded
+OS target
+Windows - 10       5616
+Windows - 7        5331
+Mac OS X - 10      5281
+iOS - 13           5234
+Android - 9        2737
+Android - 10       2257
+Android - 6        2121
+Windows - 8        1673
+Linux - nan        1589
+Android - 7        1271
+Android - 8        1217
+Windows - XP        893
+iOS - 12            659
+Ubuntu - nan        653
+iOS - nan           444
+iOS - 10            417
+Windows - Vista     313
+Android - nan       271
+Android - 5         240
+Windows - nan       187
+Android - 4         175
+Fedora - nan         88
+Chrome OS - nan      53
+Mac OS X - nan       43
+Name: count, dtype: int64
+Number of examples/rows: 38,763
+Number of features: 39
+Number of unique values in OS target column: 24
+kNN: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'minkowski', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}
+RF: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+MLP: {'activation': 'relu', 'alpha': 0.0001, 'batch_size': 'auto', 'beta_1': 0.9, 'beta_2': 0.999, 'early_stopping': False, 'epsilon': 1e-08, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'learning_rate_init': 0.001, 'max_fun': 15000, 'max_iter': 200, 'momentum': 0.9, 'n_iter_no_change': 10, 'nesterovs_momentum': True, 'power_t': 0.5, 'random_state': 42, 'shuffle': True, 'solver': 'adam', 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': False, 'warm_start': False}
+
+
+kNN: 0.6936
+kNN: 0.7109
+kNN: 0.6964
+kNN: 0.7147
+kNN: 0.7023
+kNN: 0.7116
+kNN: 0.7072
+kNN: 0.6969
+kNN: 0.6999
+kNN: 0.7077
+RF: 0.7248
+RF: 0.7436
+RF: 0.7346
+RF: 0.7358
+RF: 0.7376
+RF: 0.7353
+RF: 0.7288
+RF: 0.7260
+RF: 0.7278
+RF: 0.7337
+MLP: 0.7222
+MLP: 0.7452
+MLP: 0.7307
+MLP: 0.7485
+MLP: 0.7412
+MLP: 0.7337
+MLP: 0.7296
+MLP: 0.7353
+MLP: 0.7242
+MLP: 0.7482
+
+
+kNN accuracy: 0.7041
+kNN balanced_accuracy: 0.7189
+kNN precision: 0.7581
+kNN recall: 0.7041
+kNN f1_score: 0.7179
+kNN macro_precision: 0.6018
+kNN macro_recall: 0.7189
+kNN macro_f1_score: 0.6346
+kNN micro_precision: 0.7041
+kNN micro_recall: 0.7041
+kNN micro_f1_score: 0.7041
+RF accuracy: 0.7328
+RF balanced_accuracy: 0.6693
+RF precision: 0.8986
+RF recall: 0.7328
+RF f1_score: 0.7564
+RF macro_precision: 0.8883
+RF macro_recall: 0.6693
+RF macro_f1_score: 0.7100
+RF micro_precision: 0.7328
+RF micro_recall: 0.7328
+RF micro_f1_score: 0.7328
+MLP accuracy: 0.7359
+MLP balanced_accuracy: 0.6741
+MLP precision: 0.7850
+MLP recall: 0.7359
+MLP f1_score: 0.7510
+MLP macro_precision: 0.7086
+MLP macro_recall: 0.6741
+MLP macro_f1_score: 0.6781
+MLP micro_precision: 0.7359
+MLP micro_recall: 0.7359
+MLP micro_f1_score: 0.7359

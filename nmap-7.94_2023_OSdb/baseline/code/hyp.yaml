@@ -1,0 +1,4 @@
+transformer_type : 'baseline'
+classes_detail : "family"
+
+dataset_path : "/nmap/dataset/nmap-db.csv"

@@ -1,0 +1,71 @@
+cesga/2020 unloaded
+        Preparing the environment for use of the CESGA 2022 software stack.
+        Please rebuild modules cache: module --ignore-cache avail
+     
+cesga/2022 loaded
+python/3.10.8 loaded
+
+The following have been reloaded with a version change:
+  1) cesga/2020 => cesga/2022
+
+[I 2024-07-03 20:20:13,831] A new study created in memory with name: no-name-3bdb7def-37f6-4efb-b9fc-066395dbc2b3
+[I 2024-07-03 20:47:43,804] Trial 0 finished with value: 0.9845225113077525 and parameters: {'learning_rate': 0.0013292918943162175, 'embedding_dim': 16, 'depth': 4, 'heads': 2, 'attn_dropout': 0.05, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 512, 'imputer_strategy': 'mean', 'scaler': 'RobustScaler'}. Best is trial 0 with value: 0.9845225113077525.
+[I 2024-07-03 21:16:42,138] Trial 1 finished with value: 0.973704275837752 and parameters: {'learning_rate': 0.0019762189340280074, 'embedding_dim': 32, 'depth': 2, 'heads': 4, 'attn_dropout': 0.15000000000000002, 'ff_dropout': 0.25, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 256, 'imputer_strategy': 'mean', 'scaler': 'MinMaxScaler'}. Best is trial 0 with value: 0.9845225113077525.
+[I 2024-07-03 22:38:30,006] Trial 2 finished with value: 0.973233385286108 and parameters: {'learning_rate': 0.0008200518402245837, 'embedding_dim': 32, 'depth': 4, 'heads': 2, 'attn_dropout': 0.25, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 128, 'imputer_strategy': 'most_frequent', 'scaler': 'MinMaxScaler'}. Best is trial 0 with value: 0.9845225113077525.
+[I 2024-07-03 22:54:23,081] Trial 3 finished with value: 0.9721055555069251 and parameters: {'learning_rate': 0.00621870472776908, 'embedding_dim': 16, 'depth': 2, 'heads': 2, 'attn_dropout': 0.15000000000000002, 'ff_dropout': 0.2, 'use_shared_categ_embed': False, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 512, 'imputer_strategy': 'median', 'scaler': 'StandardScaler'}. Best is trial 0 with value: 0.9845225113077525.
+[I 2024-07-04 01:27:13,196] Trial 4 finished with value: 0.9748441654791856 and parameters: {'learning_rate': 0.00010388823104027947, 'embedding_dim': 16, 'depth': 5, 'heads': 8, 'attn_dropout': 0.05, 'ff_dropout': 0.2, 'use_shared_categ_embed': False, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 128, 'imputer_strategy': 'most_frequent', 'scaler': 'MinMaxScaler'}. Best is trial 0 with value: 0.9845225113077525.
+[I 2024-07-04 01:27:24,948] Trial 5 pruned. 
+[I 2024-07-04 02:01:04,724] Trial 6 finished with value: 0.9829486524451513 and parameters: {'learning_rate': 0.000485729517921717, 'embedding_dim': 32, 'depth': 2, 'heads': 8, 'attn_dropout': 0.45, 'ff_dropout': 0.35000000000000003, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 256, 'imputer_strategy': 'median', 'scaler': 'RobustScaler'}. Best is trial 0 with value: 0.9845225113077525.
+[I 2024-07-04 02:01:13,463] Trial 7 pruned. 
+[I 2024-07-04 02:01:29,563] Trial 8 pruned. 
+[I 2024-07-04 02:02:11,391] Trial 9 pruned. 
+[I 2024-07-04 02:42:15,246] Trial 10 finished with value: 0.9852164732220533 and parameters: {'learning_rate': 0.0010548702714918063, 'embedding_dim': 32, 'depth': 6, 'heads': 4, 'attn_dropout': 0.35000000000000003, 'ff_dropout': 0.45, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 512, 'imputer_strategy': 'mean', 'scaler': 'RobustScaler'}. Best is trial 10 with value: 0.9852164732220533.
+[I 2024-07-04 02:42:32,420] Trial 11 pruned. 
+[I 2024-07-04 02:42:56,327] Trial 12 pruned. 
+[I 2024-07-04 02:43:02,183] Trial 13 pruned. 
+[I 2024-07-04 02:43:31,151] Trial 14 pruned. 
+[I 2024-07-04 02:43:57,619] Trial 15 pruned. 
+[I 2024-07-04 02:44:07,790] Trial 16 pruned. 
+[I 2024-07-04 03:52:20,342] Trial 17 finished with value: 0.9644589685953692 and parameters: {'learning_rate': 0.003539166910822011, 'embedding_dim': 32, 'depth': 3, 'heads': 4, 'attn_dropout': 0.05, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 128, 'imputer_strategy': 'most_frequent', 'scaler': 'StandardScaler'}. Best is trial 10 with value: 0.9852164732220533.
+[I 2024-07-04 03:52:53,352] Trial 18 pruned. 
+[I 2024-07-04 03:53:32,489] Trial 19 pruned. 
+[I 2024-07-04 03:53:49,437] Trial 20 pruned. 
+[I 2024-07-04 04:09:56,873] Trial 21 pruned. 
+[I 2024-07-04 04:10:31,438] Trial 22 pruned. 
+[I 2024-07-04 04:30:19,766] Trial 23 finished with value: 0.9757859250826553 and parameters: {'learning_rate': 0.007861612553123303, 'embedding_dim': 16, 'depth': 3, 'heads': 6, 'attn_dropout': 0.35000000000000003, 'ff_dropout': 0.4, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 512, 'imputer_strategy': 'median', 'scaler': 'RobustScaler'}. Best is trial 10 with value: 0.9852164732220533.
+[I 2024-07-04 04:30:51,063] Trial 24 pruned. 
+[I 2024-07-04 04:31:37,905] Trial 25 pruned. 
+[I 2024-07-04 04:32:00,244] Trial 26 pruned. 
+[I 2024-07-04 04:32:24,175] Trial 27 pruned. 
+[I 2024-07-04 04:33:05,325] Trial 28 pruned. 
+[I 2024-07-04 04:33:34,107] Trial 29 pruned. 
+[I 2024-07-04 04:33:44,541] Trial 30 pruned. 
+[I 2024-07-04 04:33:57,656] Trial 31 pruned. 
+[I 2024-07-04 04:34:20,933] Trial 32 pruned. 
+[I 2024-07-04 04:34:27,400] Trial 33 pruned. 
+[I 2024-07-04 04:35:07,589] Trial 34 pruned. 
+[I 2024-07-04 04:35:35,730] Trial 35 pruned. 
+[I 2024-07-04 04:35:54,292] Trial 36 pruned. 
+[I 2024-07-04 05:48:13,674] Trial 37 finished with value: 0.9819697611201281 and parameters: {'learning_rate': 0.0005468562564708453, 'embedding_dim': 32, 'depth': 3, 'heads': 2, 'attn_dropout': 0.45, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 128, 'imputer_strategy': 'mean', 'scaler': 'RobustScaler'}. Best is trial 10 with value: 0.9852164732220533.
+[I 2024-07-04 05:48:21,819] Trial 38 pruned. 
+[I 2024-07-04 05:49:03,938] Trial 39 pruned. 
+[I 2024-07-04 05:49:14,569] Trial 40 pruned. 
+[I 2024-07-04 06:32:42,167] Trial 41 finished with value: 0.9835434802339119 and parameters: {'learning_rate': 0.0020768480625669885, 'embedding_dim': 32, 'depth': 3, 'heads': 6, 'attn_dropout': 0.25, 'ff_dropout': 0.15000000000000002, 'use_shared_categ_embed': True, 'n_layers': 2, 'n_units_l0': 5, 'n_units_l1': 5, 'mlp_act': 'relu', 'batch_size': 256, 'imputer_strategy': 'median', 'scaler': 'RobustScaler'}. Best is trial 10 with value: 0.9852164732220533.
+[I 2024-07-04 06:33:39,365] Trial 42 pruned. 
+[I 2024-07-04 06:33:50,868] Trial 43 pruned. 
+[I 2024-07-04 06:34:02,613] Trial 44 pruned. 
+[I 2024-07-04 06:34:24,511] Trial 45 pruned. 
+[I 2024-07-04 06:34:33,267] Trial 46 pruned. 
+[I 2024-07-04 06:34:41,975] Trial 47 pruned. 
+[I 2024-07-04 06:43:08,607] Trial 48 pruned. 
+[I 2024-07-04 06:43:28,990] Trial 49 pruned. 
+[I 2024-07-04 06:43:45,569] Trial 50 pruned. 
+[I 2024-07-04 06:44:18,225] Trial 51 pruned. 
+[I 2024-07-04 06:44:27,151] Trial 52 pruned. 
+[I 2024-07-04 06:51:09,329] Trial 53 pruned. 
+[I 2024-07-04 06:52:54,147] Trial 54 pruned. 
+[I 2024-07-04 06:53:29,692] Trial 55 pruned. 
+[I 2024-07-04 06:53:54,203] Trial 56 pruned. 
+[I 2024-07-04 06:54:05,891] Trial 57 pruned. 
+[I 2024-07-04 06:54:36,464] Trial 58 pruned. 
+[I 2024-07-04 06:55:10,768] Trial 59 pruned. 

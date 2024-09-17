@@ -1,0 +1,7754 @@
+Predictions,Ground Truth
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Android - 6,Android - 6
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,iOS - nan
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - nan,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+Android - 8,Android - 8
+Windows - XP,Windows - XP
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 8
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Mac OS X - 10
+Mac OS X - nan,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 7,Ubuntu - nan
+Mac OS X - 10,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 5,Android - 7
+Android - 6,Android - 5
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Android - 9,Android - 9
+Android - 10,Android - 9
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Android - 8,Android - 5
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - nan,Mac OS X - nan
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Android - 9,Android - 9
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Mac OS X - 10,iOS - nan
+Windows - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,iOS - nan
+Android - 8,Android - 8
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 7
+Android - 10,Android - 10
+Fedora - nan,Android - 4
+Android - 6,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - XP,Android - 6
+Linux - nan,Linux - nan
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Windows - 7
+Android - 5,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 10,Android - 6
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+iOS - 13,iOS - nan
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 7,Android - 9
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Linux - nan,Android - 10
+iOS - nan,iOS - nan
+iOS - 10,iOS - 10
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 10,Windows - XP
+Linux - nan,Linux - nan
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 9,Android - 9
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 7
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,Windows - 10
+iOS - 12,iOS - 12
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 7,Android - 5
+Linux - nan,Linux - nan
+iOS - nan,Mac OS X - 10
+Android - 10,Android - 10
+Android - 6,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Android - 9,Android - 9
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+iOS - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Fedora - nan,Fedora - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+Windows - 7,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 9,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - nan,Mac OS X - 10
+Windows - 8,Windows - 7
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 4,Android - 4
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Linux - nan,Android - 9
+Mac OS X - 10,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 6,Windows - XP
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 4,Windows - XP
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+iOS - 10,iOS - 10
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Android - 8,Linux - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - 8
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Android - 6,Linux - nan
+Android - 7,Android - 6
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Windows - 10,Windows - 10
+Android - 8,Mac OS X - 10
+Windows - 8,Windows - Vista
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 4,Android - 4
+Windows - 7,Ubuntu - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Windows - 10
+Android - 10,Android - 8
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 8
+iOS - 13,Mac OS X - 10
+Android - 9,Mac OS X - 10
+Android - 6,Android - 6
+Chrome OS - nan,Windows - 10
+Windows - 8,Windows - 8
+Android - 8,Android - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - XP,Windows - XP
+Linux - nan,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 7,Android - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Mac OS X - nan,Mac OS X - nan
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 9,Android - 7
+Android - 6,Android - 9
+Android - 7,Android - 7
+Windows - 8,Mac OS X - 10
+Windows - 8,Windows - Vista
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Chrome OS - nan,Chrome OS - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+iOS - 10,iOS - 10
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Windows - Vista
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - nan,iOS - nan
+Android - 9,Android - 8
+Android - 9,Android - 9
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - nan,Android - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Windows - 7
+Android - 5,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - XP,Windows - XP
+Android - 6,Linux - nan
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 5,Linux - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Fedora - nan,Linux - nan
+Android - 10,Android - 10
+Android - 10,Android - 8
+iOS - 12,iOS - 12
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 6
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 7,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Fedora - nan,Fedora - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+Android - 8,Android - 8
+Android - 10,Android - 8
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 7
+Android - 9,Android - 9
+Android - 10,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 6,Android - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Windows - 7,Windows - 7
+Android - 6,Android - 7
+Windows - 7,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 8,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 6,Android - 6
+Android - 10,Android - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 6
+Windows - Vista,Windows - Vista
+Android - 7,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 7
+Windows - 10,Windows - 10
+Android - nan,Android - nan
+Android - 6,Android - 6
+Linux - nan,Android - 6
+Windows - 8,Windows - 8
+Windows - 8,Windows - 7
+Android - 4,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 8,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Fedora - nan,Fedora - nan
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Windows - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,iOS - 13
+Android - 6,Android - 6
+Android - 8,Android - 8
+Windows - 8,Windows - 7
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Android - 7,Android - 6
+Android - 6,Android - 6
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Android - 8,Android - 7
+Mac OS X - nan,Mac OS X - 10
+Android - 10,Android - 9
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Windows - XP,Windows - XP
+Android - 7,Android - 6
+Android - 6,Android - 6
+Windows - 8,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Fedora - nan,Fedora - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 7
+iOS - 10,iOS - 10
+Windows - 8,Windows - 8
+Android - 6,Android - 6
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Windows - 7
+Android - 9,Android - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 10,Android - 9
+iOS - 13,Mac OS X - 10
+Windows - Vista,Windows - Vista
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - nan,Ubuntu - nan
+Windows - 10,Windows - 8
+Linux - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - nan,Mac OS X - 10
+Windows - nan,Windows - nan
+Windows - 7,Linux - nan
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 8
+Windows - Vista,Windows - Vista
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - 13,Mac OS X - 10
+Android - 5,Android - 8
+Android - 8,Android - 8
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 8,Android - 8
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Android - 6,Android - 6
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Android - 7,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - XP,Windows - 7
+iOS - 12,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Linux - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Android - 10,Android - 10
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 9,Android - 10
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - XP,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Fedora - nan,Fedora - nan
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Android - 10,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+iOS - nan,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 8,Windows - 10
+Ubuntu - nan,Windows - 7
+Android - 4,Android - 4
+Android - 10,Android - 8
+Android - 10,Android - 8
+Android - 7,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Linux - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Fedora - nan,Fedora - nan
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 6,Android - 6
+Android - 9,Android - 9
+Android - 7,Android - 7
+Android - 6,Android - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 7,Android - 9
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 10,Windows - 8
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 5,Android - 5
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 12,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 8
+Windows - XP,Android - 6
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Android - 9,Android - 6
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Windows - 8
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Ubuntu - nan,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 7,Android - 6
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Android - 9,Android - 8
+Android - 7,Android - 7
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+Android - 6,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 6
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+Windows - 8,Windows - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Windows - 8,Windows - 8
+Ubuntu - nan,Ubuntu - nan
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+iOS - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+iOS - 13,iOS - 13
+Android - 9,Android - 5
+Windows - 7,Windows - 10
+Windows - 8,Windows - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,iOS - 13
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 10,Android - 5
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - Vista,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - nan,Windows - XP
+Android - 8,Android - 8
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+iOS - nan,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Android - 10,Android - 10
+Android - nan,Android - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 8
+Android - 10,Android - 8
+Windows - 8,Windows - 8
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 9
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+iOS - nan,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+iOS - 12,iOS - 12
+Android - 9,Android - 7
+Android - 9,Android - 10
+Android - 9,Android - 9
+Android - 7,Android - 9
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Android - 9,Android - 9
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - XP
+Windows - XP,Windows - XP
+Android - 6,Android - 6
+Android - 10,Android - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Linux - nan
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 10,Android - 9
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - nan,Android - nan
+Android - 6,Android - 6
+Mac OS X - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Mac OS X - 10,iOS - nan
+Android - 9,Android - 8
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 7
+Android - 5,Android - 9
+Windows - XP,Windows - XP
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+Windows - 7,Windows - 8
+Android - 6,Android - 6
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Windows - 8,Windows - 8
+Ubuntu - nan,Ubuntu - nan
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Windows - nan,Windows - nan
+iOS - 13,Mac OS X - 10
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 10,Android - 7
+Android - 5,Android - 6
+Windows - nan,Windows - nan
+Mac OS X - 10,Windows - XP
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - XP,Windows - XP
+Linux - nan,Linux - nan
+iOS - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Linux - nan
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Linux - nan,Mac OS X - 10
+Android - 7,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 8,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Ubuntu - nan,Windows - 7
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 5,Android - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - XP
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Mac OS X - 10,iOS - 13
+Android - 9,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - XP,Linux - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Android - 4,Android - 7
+Android - 7,Android - 9
+Android - 10,Android - 8
+iOS - nan,iOS - nan
+Windows - XP,Windows - XP
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Android - 8,Android - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 5
+Android - 6,Android - 6
+Android - 9,Android - 5
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Windows - nan,Windows - nan
+Android - 10,Android - 7
+Android - 9,Android - 9
+Android - 6,Android - 6
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Android - 9,Android - 9
+Windows - 7,Windows - 10
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,iOS - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - nan,Windows - nan
+Mac OS X - 10,Android - 5
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+iOS - nan,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 8
+Android - 7,Windows - 10
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+Android - 7,Android - 7
+Android - 9,Android - 9
+Android - 10,Android - 9
+Windows - XP,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Android - 10,Android - 9
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 5,Mac OS X - 10
+Android - 7,Android - 7
+iOS - nan,Mac OS X - 10
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+Android - 5,Android - 7
+Mac OS X - 10,iOS - 13
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Android - 4,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 4,Android - 4
+Linux - nan,Windows - 8
+Mac OS X - nan,Mac OS X - nan
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - nan,Android - nan
+iOS - 12,iOS - 12
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - nan
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - nan,Android - nan
+iOS - nan,iOS - 13
+Linux - nan,Linux - nan
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Windows - 7,Windows - 10
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Fedora - nan,Fedora - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 8,Windows - 7
+Android - 6,Android - 6
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Linux - nan
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Android - 8,Android - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 7,Windows - 10
+Android - 9,Android - 9
+Windows - nan,Windows - nan
+Windows - 8,Windows - 10
+Windows - 7,Windows - 7
+iOS - nan,Mac OS X - 10
+Windows - 7,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Android - 10,Android - 7
+Android - 9,Android - 9
+Windows - 7,Windows - 8
+Android - 7,Android - 7
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 7
+Android - 4,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 8
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 10
+Android - 9,Android - 8
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 6,Windows - XP
+Android - 5,Android - 5
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 4,Android - 4
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Windows - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 7,Android - 9
+Fedora - nan,Fedora - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 8
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - nan,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 5,Android - 5
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - nan,Windows - XP
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Fedora - nan,Android - 4
+iOS - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Fedora - nan,Fedora - nan
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 7,Android - 5
+Android - 6,Android - 6
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,iOS - 13
+Windows - 10,Windows - 10
+Linux - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 8,Mac OS X - 10
+Android - 9,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 4,Android - 4
+Android - 7,Android - 5
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - XP,Windows - 7
+iOS - 10,iOS - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Chrome OS - nan,Chrome OS - nan
+Android - 8,Android - 8
+Android - 8,Android - 8
+Mac OS X - 10,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 8,Android - 9
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 8,Android - 9
+Windows - XP,Android - 6
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+iOS - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 7
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Windows - 10
+Windows - Vista,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 6
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Ubuntu - nan,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 5
+iOS - nan,iOS - nan
+Android - 4,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Android - 9,Android - 9
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+iOS - 13,Windows - 7
+iOS - 13,iOS - 13
+Ubuntu - nan,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Android - 8,Android - 9
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 10,Android - 10
+Chrome OS - nan,Chrome OS - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 7,Android - 5
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 10,Android - 10
+Android - 9,Android - 7
+Windows - 7,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+iOS - 10,iOS - 10
+Android - 9,Android - 9
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 8
+Windows - XP,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Android - 6,Android - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Linux - nan,Linux - nan
+Android - 9,Android - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Android - 10,Android - 9
+Android - 7,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - XP
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+Android - 4,Android - 4
+Android - 5,Android - 6
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 8
+Android - 9,Android - 9
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Mac OS X - 10,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 6,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 6
+Windows - 8,Windows - 8
+Android - 9,Android - 10
+Android - nan,Android - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 8,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 4,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - XP,Android - 6
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 5,Android - 6
+Mac OS X - 10,Android - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - Vista,Windows - Vista
+Android - 9,Android - 9
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - XP,Android - 6
+Mac OS X - 10,iOS - nan
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 9
+Android - 5,Android - 8
+iOS - 12,iOS - 12
+Android - 10,Android - 7
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Ubuntu - nan
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 10
+Android - 6,Android - 6
+Windows - 8,Windows - 8
+Android - 9,Android - 9
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Android - 4,Windows - 7
+Android - 10,Android - 9
+Android - 4,Android - 4
+iOS - nan,iOS - 13
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 4,Android - 6
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Windows - 8,Windows - 8
+Windows - 8,Windows - 8
+Windows - 8,Windows - 8
+Android - 8,Android - 9
+Windows - 7,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 4,Android - 4
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Android - 10,Windows - 7
+Windows - XP,Mac OS X - 10
+Android - 5,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Windows - 8,Windows - 8
+Android - 7,Android - 9
+Windows - 7,Windows - 7
+Chrome OS - nan,Android - 9
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Android - nan,Android - nan
+Mac OS X - 10,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+Android - 7,Android - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,Ubuntu - nan
+Windows - XP,Android - 6
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - nan,Windows - XP
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - nan
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Windows - 7,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 9,Windows - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 10,Android - 10
+Mac OS X - 10,iOS - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 8,Android - 9
+Windows - 10,Windows - 10
+Android - 7,Android - 8
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 5,Android - 9
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Windows - XP,Ubuntu - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - Vista,Windows - Vista
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Android - 5
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Android - 4,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Linux - nan,Android - 6
+Windows - XP,Android - 6
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+iOS - 13,Mac OS X - 10
+Android - 6,Android - 7
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 8,Android - 9
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 8
+Android - 6,Android - 4
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 5
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Android - 6,Android - 5
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Android - 9,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 10
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+iOS - 12,iOS - 12
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Fedora - nan,Fedora - nan
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - nan,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+Android - 9,Android - 10
+Android - 9,Android - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - nan,Android - nan
+Android - 5,Android - 5
+Android - 10,Android - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 9,Android - 10
+Android - 10,Android - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Ubuntu - nan,Windows - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - XP,Android - 6
+iOS - 13,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 9,Android - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 8,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,Mac OS X - 10
+Ubuntu - nan,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 5,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 7
+Linux - nan,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Mac OS X - 10,iOS - nan
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 7
+Android - 9,Android - 9
+Android - 5,Android - 5
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - XP,Windows - 8
+Windows - 7,Windows - 7
+Windows - 8,Android - 7
+Windows - XP,Android - 6
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Chrome OS - nan,Chrome OS - nan
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 9,Android - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 5,Android - 5
+Android - 9,Android - 9
+Windows - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 6
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,iOS - 13
+Windows - Vista,Windows - Vista
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 6,Android - 6
+Android - 5,Android - 10
+Android - 6,Android - 6
+Windows - 8,Windows - 8
+Android - 5,Android - 10
+iOS - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - nan,iOS - 13
+Android - 8,Android - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Linux - nan
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 8
+Windows - 8,Windows - 10
+Windows - XP,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - XP,Android - 6
+Windows - 8,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 6
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 7
+Windows - 7,Windows - 7
+Android - 4,Windows - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 7,Android - 6
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Fedora - nan,Fedora - nan
+Android - 9,Android - 8
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Android - 6,Android - 6
+Android - 4,Android - 6
+Windows - 7,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+Android - 6,Android - 6
+Android - 8,Android - 8
+Linux - nan,Linux - nan
+Android - nan,Android - nan
+Android - 8,Android - 9
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 7,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 9
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 7,Android - 7
+Windows - 8,Ubuntu - nan
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Android - 7,Android - 6
+Windows - 7,Windows - 8
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,iOS - 13
+Android - 4,Windows - 7
+iOS - nan,iOS - nan
+Android - 9,Android - 7
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Ubuntu - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 8
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Android - 6,Android - 4
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 8
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Fedora - nan,Android - 4
+Android - 10,Windows - 10
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 7,Linux - nan
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Android - 10,Android - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Linux - nan,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 8,iOS - 13
+Android - 8,Android - 7
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 7
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 7,Windows - 7
+iOS - nan,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 7,Mac OS X - 10
+Linux - nan,Mac OS X - 10
+Android - 7,Android - 6
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+iOS - nan,iOS - 13
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+iOS - 13,Mac OS X - 10
+Android - 9,Chrome OS - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 8,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Fedora - nan,Android - 9
+Windows - 7,Windows - 7
+Windows - XP,iOS - nan
+iOS - 10,iOS - 10
+iOS - 10,iOS - 10
+Ubuntu - nan,Mac OS X - 10
+Android - 4,Android - 4
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 5,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Mac OS X - 10,iOS - 13
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Android - 6,Android - 10
+Windows - 7,Windows - 10
+Android - 9,Android - 9
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 8
+Windows - 8,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Android - 9,Android - 9
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Linux - nan,Android - 9
+Android - 6,Android - 6
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Android - nan,Android - nan
+Windows - 7,Windows - 7
+Fedora - nan,Android - 9
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - nan,Android - nan
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - XP,Android - 6
+Linux - nan,Linux - nan
+Android - 9,Android - 8
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 8,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 9,Chrome OS - nan
+Chrome OS - nan,Windows - 10
+Windows - 8,Linux - nan
+Android - 10,Android - 9
+Android - 9,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Fedora - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - nan,Windows - XP
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+Android - 8,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 4,Android - 6
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+iOS - 12,iOS - 12
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 8,iOS - nan
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+iOS - 12,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 4,Android - 6
+Android - 9,Android - 9
+Android - 9,Android - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Linux - nan,Windows - 10
+Android - 8,Android - 8
+Android - 4,Android - 4
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Ubuntu - nan,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 5,Android - 5
+Linux - nan,Mac OS X - 10
+Mac OS X - nan,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Mac OS X - 10
+Android - 10,Windows - 10
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Mac OS X - 10
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Windows - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Ubuntu - nan
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 8,Linux - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - nan,iOS - nan
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Linux - nan,Linux - nan
+Android - 8,Android - 8
+Android - 6,Android - 6
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+Android - 5,Android - 7
+Android - 9,Android - 7
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Android - nan,Android - nan
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - nan,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Windows - 7
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 7,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Mac OS X - nan,Ubuntu - nan
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Mac OS X - 10
+Android - 5,Android - 5
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 8,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - Vista,Windows - Vista
+iOS - 10,iOS - 10
+Android - 8,Android - 9
+Mac OS X - 10,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - nan,Windows - XP
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Windows - 10
+iOS - 13,Mac OS X - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - XP,Windows - XP
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Mac OS X - 10,Windows - 10
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Android - 6,Android - 6
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 8
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 4,Android - 4
+Android - 6,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Android - 6,Android - 9
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 8,Windows - 10
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Windows - 8,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 10
+Android - 10,Android - 8
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - nan
+Mac OS X - 10,Linux - nan
+iOS - 13,Mac OS X - 10
+Android - 5,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+iOS - nan,Mac OS X - 10
+Android - 10,Android - 9
+Android - 10,Android - 9
+Windows - 8,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Windows - 10,Windows - 8
+Android - 9,Android - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 10,Android - 10
+Android - 10,Android - 10
+Android - 10,Android - 9
+iOS - 10,Windows - XP
+Android - 10,Android - 9
+Android - 5,Android - 6
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Android - 9,Android - 10
+Mac OS X - 10,Windows - 7
+Android - 9,Android - 9
+Android - 7,Android - 7
+Android - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Android - 6,Android - 6
+Android - 5,Android - 5
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - XP,Windows - 10
+Android - 8,Android - 8
+Windows - 7,Windows - 8
+Android - 8,Android - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Android - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Mac OS X - 10
+Windows - 8,Windows - 8
+Linux - nan,Linux - nan
+Windows - 10,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 10,Android - 8
+Android - 6,Windows - 7
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+Windows - Vista,Windows - Vista
+Android - 10,Android - 9
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Android - 10,Android - 10
+Windows - 8,Windows - 8
+Android - 8,Android - 9
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Chrome OS - nan,Chrome OS - nan
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Linux - nan
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+Android - 8,Android - 9
+Ubuntu - nan,Linux - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Windows - 7,Windows - 8
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - nan,iOS - 13
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+Linux - nan,Linux - nan
+Fedora - nan,Windows - 7
+Android - 9,Android - 9
+Android - 10,Android - 5
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+iOS - 12,iOS - 12
+Android - 6,Android - 9
+Linux - nan,Linux - nan
+Windows - XP,Mac OS X - 10
+Android - 6,Windows - XP
+Windows - 8,Windows - 8
+Android - 10,Android - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 7,Windows - 8
+Android - 5,Android - 6
+Windows - XP,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 8,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Windows - 10,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Windows - Vista,Windows - Vista
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+Windows - 8,Windows - 8
+Windows - nan,Windows - XP
+Mac OS X - 10,Windows - 10
+iOS - 13,iOS - nan
+Android - 9,Android - 9
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+Android - 5,Mac OS X - 10
+Windows - 8,Windows - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 8
+Ubuntu - nan,Ubuntu - nan
+Android - 4,Android - 4
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 10,Android - 10
+iOS - 13,Mac OS X - 10
+Android - 7,Linux - nan
+Mac OS X - 10,Linux - nan
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+iOS - nan,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 7,Android - 8
+Windows - 10,Windows - 10
+Android - 6,Windows - XP
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - XP
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Android - 4,Android - 4
+Android - 10,Android - 9
+Android - 9,Android - 7
+Android - 8,Android - 10
+Android - 9,Android - 10
+Windows - 7,Mac OS X - 10
+Mac OS X - 10,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Mac OS X - 10,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Android - 8,Android - 8
+Android - 7,Android - 8
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 8
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Android - 10,Android - 9
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,iOS - 13
+Android - 10,Android - 9
+Windows - 7,Mac OS X - 10
+Android - 10,Android - 8
+Linux - nan,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 8,Android - 7
+Linux - nan,Windows - 10
+Android - 10,Android - 9
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Ubuntu - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - nan,iOS - nan
+Mac OS X - 10,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 10,Android - 8
+Android - 7,Android - 7
+Android - 9,Android - 9
+Android - 6,Windows - XP
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+Android - 10,Android - 5
+Windows - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 5,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Android - 7,Android - 8
+Windows - 7,Windows - 10
+Android - 10,Android - 9
+iOS - nan,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 6,Android - 7
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 10
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 7,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 7
+Android - 10,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 7,Windows - 8
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - 12,iOS - 12
+Windows - nan,Windows - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 8,Android - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 9
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Windows - 7,Windows - 10
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Windows - nan,Windows - XP
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+iOS - 13,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - nan,Windows - nan
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 4,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - Vista,Windows - Vista
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,iOS - 13
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 5,Android - 6
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - Vista,Ubuntu - nan
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 8,Android - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,iOS - nan
+Android - 6,Android - 7
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Windows - XP,Android - 6
+Android - 10,Android - 10
+Windows - nan,Windows - nan
+Android - 7,Android - 7
+Android - 9,Android - 8
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+iOS - nan,iOS - nan
+Android - 7,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 8,Windows - 8
+Windows - 7,Fedora - nan
+Windows - 7,Windows - 8
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+Android - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 10,Android - 9
+Android - 6,Android - 8
+Android - 7,Android - 9
+Android - 7,Android - 9
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 10
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+Windows - XP,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - XP,Windows - XP
+Linux - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 8,Windows - 7
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Windows - 7,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 8
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Android - 8,Android - 7
+iOS - 10,iOS - 10
+Windows - 7,Windows - 8
+Android - 9,Android - 8
+Mac OS X - 10,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - nan,Android - nan
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Android - 7,Mac OS X - 10
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 5
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 8,Android - 7
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Fedora - nan,Linux - nan
+Linux - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - nan,Windows - XP
+Android - 10,Android - 10
+Android - 6,Android - 6
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Linux - nan,Windows - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Ubuntu - nan
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+Android - 10,Android - 10
+Android - 9,Android - 9
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Android - 8,Fedora - nan
+Android - 6,Android - 6
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Android - 10,Android - 8
+Android - 8,Android - 8
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Windows - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Android - 6,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Linux - nan,Ubuntu - nan
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Ubuntu - nan
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 8
+Android - 5,Android - 5
+Mac OS X - 10,iOS - 12
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+Windows - XP,Windows - XP
+Linux - nan,Windows - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Linux - nan,Windows - 7
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Windows - 10
+Android - 9,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - XP,Windows - 10
+Windows - 10,Android - 7
+Mac OS X - nan,Windows - 7
+Android - 10,Android - 9
+Android - 8,Android - 7
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+Android - 10,Android - 8
+Android - 7,Android - 7
+Android - 9,Android - 9
+Android - 8,Android - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 5,Windows - 7
+Windows - 8,Windows - 8
+Android - 7,Android - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 6,Android - 4
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Android - 10,Android - 7
+iOS - nan,Mac OS X - 10
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Android - 6,Android - 6
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - XP,Android - 6
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Android - 6,Android - 6
+iOS - 12,iOS - 12
+Windows - nan,Windows - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - nan,Mac OS X - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Android - 6
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Android - 9
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - Vista,Linux - nan
+Linux - nan,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 8
+Android - 7,Android - 7
+Android - 7,Android - 7
+Android - 6,Android - 6
+Android - 9,Android - 7
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+Android - 8,Android - 9
+iOS - 12,iOS - 12
+Android - 7,Android - 7
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - nan,iOS - 13
+Android - 9,Android - 8
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 12,iOS - 12
+Android - 5,Android - 6
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Android - 9,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 7,Windows - 10
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 8
+Windows - 7,Windows - XP
+Android - 10,Android - 10
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 6,Android - 6
+Ubuntu - nan,Windows - 7
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+Android - 5,Android - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Ubuntu - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 8
+Android - 4,Windows - 8
+iOS - 10,iOS - 10
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - XP,Windows - XP
+Android - 4,Android - 4
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Windows - Vista,Windows - Vista
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 10,iOS - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Ubuntu - nan,Windows - 7
+Android - 7,Android - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 9,Linux - nan
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+iOS - 13,Android - 10
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Android - 9,Android - 10
+Android - 6,Android - 7
+Linux - nan,Mac OS X - 10
+Android - 10,Android - 7
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Windows - 8,Windows - 8
+Android - nan,Android - nan
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Android - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Mac OS X - 10,iOS - nan
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 7
+Windows - 8,Windows - 8
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - nan,Mac OS X - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 10,Android - 9
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Linux - nan,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 9
+Android - 7,Android - 5
+Android - 9,Android - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 7,Linux - nan
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 6
+Windows - 10,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Linux - nan
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 8
+Android - 10,Android - 9
+Android - 10,Android - 10
+Ubuntu - nan,Ubuntu - nan
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Android - 4,Android - 4
+Android - 10,Android - 8
+Android - 7,Android - 7
+Linux - nan,Linux - nan
+Android - 8,Android - 10
+Windows - nan,Windows - nan
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 7
+Linux - nan,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Windows - 7
+Android - 7,Android - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Ubuntu - nan,Linux - nan
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - nan,Android - nan
+Android - 5,Android - 5
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 8
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Windows - 8,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Android - nan,Android - nan
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+iOS - nan,Mac OS X - 10
+Linux - nan,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+iOS - nan,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - nan,Mac OS X - nan
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+Android - 6,Android - 6
+Android - 10,Android - 10
+Windows - 7,Windows - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 8,Android - 9
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 6,Android - 6
+Windows - 7,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 9,Android - 7
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - nan,iOS - 13
+Android - 8,Android - 8
+Android - nan,Android - nan
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 8,Android - 7
+Android - 10,Android - 10
+Android - 8,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 6,Android - 6
+iOS - 10,iOS - 10
+Android - 6,Android - 6
+Mac OS X - nan,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - nan,Windows - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 9,Linux - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+Android - 8,Android - 9
+Android - 7,Android - 6
+Windows - 8,Windows - 7
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+Android - 7,Android - 6
+iOS - 13,iOS - 13
+Ubuntu - nan,Windows - 7
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Linux - nan
+Android - 6,Android - 6
+Android - 10,Android - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Mac OS X - nan,Mac OS X - nan
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+iOS - nan,iOS - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Android - 10,Android - 9
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 6,Windows - XP
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 4,Android - 4
+Android - nan,Android - nan
+Android - 5,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - 8,Windows - 7
+Windows - 8,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 6
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 6,Android - 6
+Mac OS X - 10,Ubuntu - nan
+Android - 6,Android - 6
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Mac OS X - 10,Linux - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 6
+Android - 9,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Windows - XP,Android - 6
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Mac OS X - 10,iOS - nan
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 5,Android - 7
+iOS - 13,iOS - 13
+Android - 5,Android - 5
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+Windows - 10,Android - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 8,Android - 9
+Android - 7,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,iOS - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 6
+Windows - XP,Windows - XP
+Android - 7,Android - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Ubuntu - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Windows - 10,Ubuntu - nan
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - Vista,Windows - Vista
+Android - 4,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 7
+iOS - 10,iOS - 10
+Android - 10,Android - 9
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Android - 8,Android - 10
+Android - 10,Android - 10
+iOS - 12,iOS - 12
+Android - 4,Windows - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 6,Android - 6
+iOS - 12,iOS - 12
+Android - 4,Android - 6
+Windows - 7,Android - 6
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 6
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Ubuntu - nan,Windows - 7
+Android - 10,Android - 9
+Android - 9,Android - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 7,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - Vista,Windows - nan
+Android - 10,Android - 10
+Android - 9,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 8
+Android - 7,Android - 7
+Windows - nan,Windows - XP
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - nan,Windows - 10
+Android - 4,Android - 6
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 7,Mac OS X - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Mac OS X - 10,Android - 6
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - XP,Windows - 7
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+Windows - Vista,Windows - Vista
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - Vista,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Linux - nan,Android - 9
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 4,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - XP,Windows - XP
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 4,Android - 4
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 7,Windows - 8
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+iOS - 12,iOS - 12
+Windows - nan,Windows - nan
+Windows - 8,Windows - 7
+Windows - 10,Android - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Android - 6,Android - 6
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Android - 9,Android - 9
+Android - 8,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 7
+Mac OS X - 10,iOS - 13
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Android - 5,Android - 5
+Ubuntu - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Android - 10,Android - nan
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - XP,Linux - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Ubuntu - nan,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - XP,Windows - XP
+Windows - nan,Windows - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 9,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - nan
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - Vista,Windows - Vista
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Windows - 7,Linux - nan
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Linux - nan,Android - 8
+Mac OS X - 10,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - nan,Android - nan
+Fedora - nan,Fedora - nan
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 9,Android - 9
+iOS - 12,iOS - 12
+Android - 8,Android - 10
+Android - 7,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 7
+iOS - 13,iOS - 13
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 10,iOS - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Android - 5,Android - 5
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Windows - 10,Windows - 10
+Android - 6,Linux - nan
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 7
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Windows - 8,Windows - 8
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 10,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - nan,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Ubuntu - nan,Linux - nan
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 9,Android - 10
+Windows - 7,Windows - 10
+Android - 9,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - nan,Windows - XP
+iOS - 12,iOS - 12
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Windows - 7,Linux - nan
+Android - 6,Android - 7
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 5,Android - 5
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 8,Android - 10
+Android - 6,Android - 6
+Android - 7,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Android - 8,Linux - nan
+Windows - 8,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Android - 8,Android - 8
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 8,Android - 9
+Windows - 8,Windows - 8
+Fedora - nan,Fedora - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Linux - nan
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 9,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - nan,iOS - 13
+Android - 6,Android - 6
+Android - 6,Android - 6
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+Android - 4,Android - 4
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Android - 8,Android - 10
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Android - 6,Android - 6
+Android - 9,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Mac OS X - 10,Windows - 7
+Ubuntu - nan,Windows - 8
+Android - 6,Android - 6
+iOS - 10,iOS - 10
+Android - 7,Android - 7
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 8
+Windows - 7,Windows - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+Android - 8,Android - 9
+Windows - 10,Windows - 10
+Android - 4,Android - 6
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 6,Windows - XP
+iOS - 12,iOS - 12
+Mac OS X - 10,Windows - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Android - 8,Android - 9
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+Android - 6,Android - 6
+Windows - 8,Windows - 8
+Android - 9,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Android - 7,Android - 7
+Linux - nan,Windows - 7
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 4,Windows - 7
+iOS - 13,iOS - 13
+Android - 4,Android - 6
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 10,iOS - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+Android - 10,Android - 10
+Windows - 8,Windows - 8
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Linux - nan
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 8,Windows - XP
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 8
+Android - 6,Android - 6
+Android - 5,Android - 5
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Ubuntu - nan,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 10,iOS - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 7,Android - 9
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 7
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Android - 9,Android - 9
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Linux - nan,Linux - nan
+Android - 8,Android - 8
+iOS - 12,iOS - 12
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Windows - 7,Android - 7
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - nan,Windows - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 10
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 7,Windows - 8
+Windows - Vista,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Mac OS X - 10
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Windows - 10,Android - 5
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Android - 6,Android - 6
+Windows - nan,Windows - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - nan,iOS - 13
+Windows - XP,Android - 6
+Windows - 7,Windows - 8
+Linux - nan,Ubuntu - nan
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 7,Android - 9
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Linux - nan,Windows - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Windows - XP,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Android - 9
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Linux - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Windows - 8,Windows - 7
+Ubuntu - nan,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 7
+Android - 7,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+Android - 10,Android - 9
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Chrome OS - nan,Chrome OS - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 5,Android - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 8,Linux - nan
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 7,Android - 10
+iOS - 12,iOS - 12
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Ubuntu - nan,Mac OS X - 10
+Android - 4,Android - 6
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 7,Android - 10
+Linux - nan,Linux - nan
+Android - 9,Android - 10
+Ubuntu - nan,Linux - nan
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 7,Android - 5
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+iOS - 10,iOS - 10
+Android - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - nan,iOS - 13
+Android - nan,Android - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+iOS - nan,iOS - nan
+Fedora - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - XP,Windows - Vista
+Android - 10,Android - 7
+Android - 10,Android - 8
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - nan,Android - nan
+iOS - 12,iOS - 12
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 5,Android - 8
+Android - 8,Android - 10
+Windows - XP,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 10
+Android - 8,Android - 8
+iOS - 13,Mac OS X - 10
+iOS - nan,iOS - nan
+Windows - 7,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 7,Android - 6
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 6,Android - 6
+Android - 8,Android - 8
+Windows - Vista,Mac OS X - 10
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 8,Android - 9
+Android - 4,Android - 4
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Android - 8,Android - 7
+Windows - 10,Windows - 7
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Android - 8,Windows - 7
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Android - 10,Android - 10
+Android - 8,Android - 7
+iOS - 13,Mac OS X - 10
+Windows - 7,Linux - nan
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,iOS - 13
+Android - 7,Android - 6
+iOS - 12,iOS - 12
+Windows - 7,Windows - 8
+Windows - 10,Windows - 7
+Android - 10,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Android - 10,Windows - 10
+Linux - nan,Windows - 7
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Linux - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Windows - XP,Android - 6
+Android - 9,Android - 9
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 7
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 10,Android - 9
+Android - 6,Android - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Ubuntu - nan,Linux - nan
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Linux - nan,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Chrome OS - nan,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 10,Android - 7
+Android - 7,Android - 7
+Windows - 7,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+iOS - 12,Mac OS X - 10
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Android - 8
+Chrome OS - nan,Windows - 7
+Windows - 8,Ubuntu - nan
+Android - 4,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 9,Android - 8
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Mac OS X - 10
+Linux - nan,Windows - 10
+Windows - 10,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Android - 5,Android - 5
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 4,Android - 4
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Ubuntu - nan,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Android - 6,Windows - XP
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+Android - 8,Android - 10
+Windows - 7,Linux - nan
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - nan,Windows - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 4,Android - 4
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Ubuntu - nan,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Ubuntu - nan
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,Android - 6
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 7
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+iOS - 13,Mac OS X - 10
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 10,Windows - 8
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 7,Android - 6
+Android - 7,Android - 6
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 6,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+Windows - 8,Windows - 7
+Mac OS X - 10,iOS - 13
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Android - 7,Android - 6
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 10,Android - 9
+Android - 7,Windows - 10
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - nan,Android - nan
+Windows - Vista,Windows - Vista
+Android - 8,Android - 9
+Android - 9,Android - 9
+Mac OS X - 10,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Android - 5,Android - 7
+Android - 4,Android - 4
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Android - 5,Android - 5
+Linux - nan,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Windows - 8
+Android - 10,Android - 6
+Windows - 10,Windows - 7
+iOS - nan,iOS - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+iOS - 12,iOS - 12
+Android - 10,Android - 10
+Android - 10,Android - 9
+iOS - nan,iOS - nan
+Windows - 10,Windows - 10
+Linux - nan,Windows - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 8
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Windows - XP,Linux - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - nan,iOS - 13
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 6
+Linux - nan,Windows - XP
+Windows - 7,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Android - 6,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Chrome OS - nan,Chrome OS - nan
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 7
+Android - 8,Android - 8
+Windows - nan,Windows - nan
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - XP
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - XP,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - nan,Android - nan
+Ubuntu - nan,iOS - 10
+Linux - nan,Android - 6
+Windows - 8,Windows - 8
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Windows - XP,Windows - XP
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Android - 10,Android - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 7
+Android - 7,Android - 7
+Windows - 8,Windows - 10
+iOS - 13,Mac OS X - 10
+Android - 6,Android - 6
+Android - 8,Android - 5
+Android - 9,Android - 9
+Android - 6,Android - 6
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Linux - nan
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+Android - 7,Android - 7
+Windows - 8,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 8,Windows - 8
+iOS - nan,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+iOS - nan,Mac OS X - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Fedora - nan,Fedora - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Ubuntu - nan,Windows - 7
+Android - 7,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Windows - 7,Mac OS X - 10
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Mac OS X - 10,iOS - 13
+Android - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Android - 6,Windows - 10
+Android - 10,Android - 10
+Windows - XP,Linux - nan
+Android - 7,Linux - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 8
+Windows - XP,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 4,Android - 4
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 6,Android - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 8,Android - 7
+Android - 7,Android - 7
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Ubuntu - nan,Windows - 7
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Android - 7,Android - 8
+Android - 8,Android - 10
+Fedora - nan,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Android - 10,Android - 9
+Windows - nan,Windows - XP
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 7,Android - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - nan
+iOS - nan,iOS - nan
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Android - 5,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Android - 5,Android - 7
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+iOS - 10,iOS - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 8
+Android - 10,Android - 9
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Linux - nan
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Mac OS X - nan,Windows - 7
+Android - 8,Android - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 8
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Android - 8,Android - 7
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Android - 10,Android - 8
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Linux - nan
+Windows - 7,Android - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 7
+Windows - XP,Windows - XP
+Windows - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Mac OS X - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+Android - 8,Android - 8
+iOS - nan,iOS - 13
+Android - 9,Android - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 7
+Windows - 7,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Windows - XP,Windows - XP
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 5,Android - 7
+Android - 9,Android - 10
+Android - 10,Android - 7
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 7,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Windows - 7,Windows - 8
+Windows - 8,Windows - 8
+Android - 10,Android - 9
+Mac OS X - nan,Mac OS X - nan
+Android - 8,Android - 7
+Android - 9,Android - 9
+iOS - 13,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 9,Android - 9
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 7
+Android - 7,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Windows - XP,Android - 6
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 10
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Chrome OS - nan,Chrome OS - nan
+Android - 6,Android - 6
+Chrome OS - nan,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Mac OS X - 10,iOS - 12
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+Windows - nan,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Windows - XP,Android - 6
+Windows - 8,Windows - 8
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - nan,Android - nan
+Windows - XP,Android - 6
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 10,iOS - 10
+Linux - nan,Linux - nan
+Android - 9,Android - 7
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Linux - nan,Linux - nan
+iOS - 10,iOS - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - nan,Windows - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - Vista,Windows - Vista
+Fedora - nan,Android - 8
+Android - 10,Android - 10
+Android - 10,Android - 8
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - nan,Windows - XP
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Windows - 10
+Android - 9,Android - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+Mac OS X - 10,Windows - 7
+Android - 10,Windows - 10
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Android - 6,Linux - nan
+Windows - XP,Windows - XP
+Android - 7,Android - 7
+Windows - 8,Windows - 10
+Linux - nan,Linux - nan
+Windows - 8,Mac OS X - 10
+Android - 8,Android - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Windows - 10,Windows - 7
+Windows - 8,Windows - 8
+Linux - nan,Linux - nan
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Android - 9,Android - 7
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 7
+iOS - 10,iOS - 10
+Windows - 7,Windows - 7
+Android - 7,Windows - 8
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Android - 9
+Windows - XP,Windows - XP
+Windows - Vista,Windows - Vista
+Android - 5,Android - 5
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Windows - 7
+Android - 8,Android - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 5,Android - 5
+iOS - 12,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - XP
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 8,Android - 10
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - XP
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 8
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - XP,Android - 6
+Windows - 7,Windows - 10
+Android - 6,Android - 6
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 8
+Android - 10,Android - 10
+iOS - 10,iOS - 10
+Linux - nan,Windows - XP
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Ubuntu - nan,Linux - nan
+iOS - 12,iOS - 12
+Mac OS X - 10,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Android - 10,Android - 8
+iOS - 13,iOS - 13
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Android - 10,Android - 10
+Android - 8,Android - 10
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Windows - nan,Windows - nan
+Android - 6,Android - 6
+Android - 10,Android - 8
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 9,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+iOS - 12,iOS - 12
+iOS - 13,Mac OS X - 10
+Ubuntu - nan,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Linux - nan
+iOS - 13,iOS - 13
+iOS - 13,iOS - nan
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Windows - XP
+Android - 7,Android - 7
+Android - 4,Android - 4
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 7,Android - 10
+iOS - 13,iOS - 13
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Linux - nan,Windows - 8
+iOS - 13,iOS - 13
+Android - 7,Android - 8
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Windows - 10
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Windows - XP,Android - 6
+Android - nan,Android - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,Windows - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+iOS - 13,iOS - nan
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Ubuntu - nan
+Mac OS X - 10,iOS - 12
+Android - 6,Android - 6
+Windows - 7,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Windows - 7,Android - 7
+Android - 4,Android - 4
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Android - 8,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Windows - 10,Windows - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 5
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Windows - Vista,Windows - Vista
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Chrome OS - nan,Chrome OS - nan
+Linux - nan,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Linux - nan,Android - 7
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 4,Android - 4
+Android - 10,Android - 10
+Android - 9,Android - 9
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Windows - 8,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - nan
+iOS - 13,iOS - 13
+Android - 10,Android - 7
+Windows - 7,Windows - 10
+iOS - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - nan,iOS - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - nan,Mac OS X - 10
+Windows - nan,Windows - nan
+Android - 9,Android - 9
+Android - 6,Android - 6
+Linux - nan,Windows - 7
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Android - 9,Android - 5
+Windows - Vista,Windows - Vista
+Windows - nan,Windows - nan
+Windows - 8,Windows - 8
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Android - 8,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 8
+Linux - nan,Linux - nan
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 8,Android - 9
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 5,Windows - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 9
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+iOS - nan,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Android - 6,Windows - XP
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Fedora - nan,Fedora - nan
+Android - 10,Android - 8
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+Android - 10,Android - 8
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - XP
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 7,Android - 6
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+Fedora - nan,Android - 9
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Linux - nan,Linux - nan
+Android - 5,Android - 7
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 8
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Linux - nan,Linux - nan
+Linux - nan,Linux - nan
+iOS - 12,Mac OS X - 10
+Linux - nan,Ubuntu - nan
+Android - 8,Android - 7
+Android - 6,Android - 10
+Windows - nan,Windows - XP
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Windows - 8,Windows - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 10,Android - 6
+Windows - Vista,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - nan,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - XP
+Windows - 8,Windows - 8
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 7
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Ubuntu - nan,Ubuntu - nan
+Linux - nan,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - XP,Windows - XP
+Mac OS X - 10,Mac OS X - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Android - 10,Android - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Android - nan,Android - nan
+iOS - nan,iOS - 13
+Android - 10,Android - 9
+iOS - 12,iOS - 12
+Android - 10,Android - 10
+Android - 10,Android - 8
+Windows - XP,Windows - 7
+Windows - 8,Windows - 8
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Fedora - nan,Linux - nan
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 6,Android - 7
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Windows - XP
+Windows - 10,Windows - 10
+Windows - nan,Windows - nan
+Android - 6,Android - 6
+iOS - nan,iOS - nan
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 10
+Android - 10,Android - 10
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Ubuntu - nan,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - Vista,Windows - Vista
+iOS - 12,iOS - 12
+Windows - nan,Windows - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+iOS - 10,iOS - 10
+iOS - nan,iOS - 13
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+iOS - 13,Mac OS X - 10
+Android - nan,Android - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - XP,Linux - nan
+Linux - nan,Linux - nan
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Linux - nan,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Windows - 8,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+iOS - 12,iOS - 12
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 5,Android - 5
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - nan,Mac OS X - 10
+Android - 9,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 7
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Android - 6
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - 7
+iOS - 12,Mac OS X - 10
+iOS - 13,iOS - 13
+Fedora - nan,Fedora - nan
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Windows - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - nan
+Linux - nan,Linux - nan
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Android - 8,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 8,Windows - 8
+Windows - XP,Linux - nan
+iOS - 13,iOS - 13
+Windows - nan,Windows - nan
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Android - 9,Android - 9
+Android - 6,Android - 6
+Android - 5,Android - 6
+Android - 6,Android - 6
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Mac OS X - 10,Windows - 7
+Ubuntu - nan,Ubuntu - nan
+Android - 9,Android - 9
+Ubuntu - nan,Android - 10
+Android - 8,Android - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 5,Android - 9
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Windows - XP,Mac OS X - 10
+Android - 6,Android - 6
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 8,Windows - 8
+Android - 8,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Linux - nan,Linux - nan
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 8
+iOS - nan,iOS - nan
+Android - 9,Android - 10
+Windows - XP,Windows - XP
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Linux - nan
+Windows - 8,Windows - 8
+Windows - 8,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+iOS - 12,iOS - 12
+Android - 7,Android - 6
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Linux - nan,Linux - nan
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 8
+Windows - 7,Windows - 7
+Android - 7,Linux - nan
+Windows - XP,Windows - 7
+Linux - nan,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 8,Mac OS X - 10
+Android - 9,Linux - nan
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Windows - 7
+iOS - 12,iOS - 12
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Android - 10,Android - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Android - 9,Android - 9
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 8
+Ubuntu - nan,Ubuntu - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - nan,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Android - 10,Android - 8
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+Windows - XP,Windows - XP
+Android - 4,Android - 4
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 8
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - XP,Android - 6
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 5
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 12,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - nan,Windows - XP
+Android - 6,Android - 6
+Windows - XP,Windows - XP
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 8
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Android - 8,Android - 7
+Android - 8,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+Windows - 10,Windows - 10
+Ubuntu - nan,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Windows - 7,Windows - 7
+Android - 8,Android - 8
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Windows - Vista,Windows - Vista
+Android - 9,Android - 8
+Android - 10,Android - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 8
+iOS - 13,iOS - 13
+iOS - 10,iOS - 10
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - Vista,Windows - 7
+Android - 8,Android - 9
+Android - 10,Android - 9
+Android - 8,Android - 8
+Android - 7,Android - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 9
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 5,Android - 5
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Windows - 7
+Windows - 10,Windows - 10
+Android - 9,Android - 9
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Android - 8,Android - 8
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Android - 6,Linux - nan
+Android - 8,Android - 10
+Android - 10,Android - 6
+Windows - 7,Windows - 8
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 10
+iOS - 10,iOS - 10
+Windows - 7,Windows - 8
+Android - 8,Android - 6
+Mac OS X - nan,Mac OS X - nan
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Android - 9,Android - 6
+Android - 8,Android - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 8,Windows - 8
+iOS - 13,iOS - nan
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,iOS - 13
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 10
+iOS - 12,iOS - 12
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+iOS - nan,Android - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+Android - 6,Android - 6
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Windows - 7,Windows - 8
+Android - 6,Android - 10
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+Android - 10,Android - 10
+Linux - nan,Windows - 10
+Windows - Vista,Windows - Vista
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Android - 6,Android - 6
+Android - 8,Android - 9
+Android - 7,Android - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 9,Android - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Android - 6,Android - 6
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 12,iOS - 12
+Windows - 10,Windows - 7
+Android - 6,Android - 6
+Android - 9,Android - 9
+Windows - 10,Windows - 10
+iOS - 12,iOS - 12
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Linux - nan,Linux - nan
+Android - 10,Android - 9
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,Mac OS X - 10
+iOS - 13,Mac OS X - 10
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Linux - nan,Linux - nan
+Android - 8,Android - 10
+Android - 6,Android - 6
+Windows - 8,Windows - 7
+Android - 7,Android - 7
+Mac OS X - 10,Mac OS X - 10
+Android - 9,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Android - nan,Android - nan
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - XP,Windows - XP
+Linux - nan,Linux - nan
+Android - 10,Android - 8
+Linux - nan,Linux - nan
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Windows - 8,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 4,Android - 4
+Android - 8,Android - 10
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,Mac OS X - 10
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 10
+Android - 8,Android - 10
+Linux - nan,Linux - nan
+Windows - XP,Windows - XP
+iOS - 13,Mac OS X - 10
+Windows - 8,Windows - 10
+Android - nan,Android - nan
+Android - 9,Android - 7
+Android - 7,Android - 7
+Windows - 10,Windows - 10
+Android - 7,Android - 7
+Android - 10,Android - 9
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+iOS - 12,iOS - 12
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+Windows - 10,Windows - 10
+Android - 8,Android - 9
+Android - 6,Android - 5
+Windows - 7,Windows - 7
+Android - 9,Android - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Linux - nan,Linux - nan
+iOS - 13,iOS - 13
+Android - 9,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Android - 5,Android - 6
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 6,Linux - nan
+Android - 8,Android - 7
+Windows - XP,Windows - XP
+Android - 10,Android - 9
+Windows - XP,Windows - XP
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Mac OS X - 10,Mac OS X - 10
+Android - 6,Linux - nan
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Linux - nan,Linux - nan
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 7,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Windows - Vista,Windows - Vista
+Android - 6,Android - 6
+Android - 7,Android - 6
+Android - 9,Android - 9
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Windows - 7,Windows - 7
+Android - 8,Android - 9
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Android - 9,Android - 8
+Android - 6,Android - 6
+Android - 8,Android - 8
+iOS - 12,iOS - 12
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+Android - 10,Android - 8
+Windows - 10,Windows - 10
+Windows - 10,Android - 7
+Windows - 7,Windows - 7
+Android - 10,Android - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 7
+iOS - 13,iOS - 13
+iOS - 13,Mac OS X - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 10,iOS - 10
+iOS - 13,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Windows - 7,Windows - 7
+Android - 9,Android - 9
+Windows - nan,Windows - XP
+Windows - 7,Windows - 7
+Android - 7,Android - 7
+Android - 6,Android - 6
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+Windows - nan,Windows - nan
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Android - 10,Android - 9
+Ubuntu - nan,Ubuntu - nan
+Mac OS X - 10,iOS - 13
+Windows - Vista,Windows - Vista
+Windows - 8,Windows - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Mac OS X - 10,iOS - 13
+iOS - 13,iOS - 13
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Windows - 7,Android - 10
+iOS - 13,iOS - 13
+Android - 6,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,iOS - 13
+Windows - XP,Android - 6
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Linux - nan,Linux - nan
+Ubuntu - nan,Ubuntu - nan
+iOS - 13,iOS - 13
+Mac OS X - 10,Mac OS X - 10
+Android - 10,Android - 9
+Windows - 10,Windows - 10
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+Android - 7,Android - 7
+Android - 9,Android - 9
+Windows - 7,Windows - 7
+iOS - 13,iOS - 13
+Mac OS X - 10,Windows - 8
+Android - 9,Android - 9
+Android - 9,Android - 8
+Windows - 10,Windows - 10
+Android - 10,Android - 7
+Windows - 7,Windows - 7
+Android - 9,Android - 8
+Windows - 7,Windows - 7
+Windows - 10,Windows - 10
+Windows - 10,Windows - 10
+Mac OS X - 10,Mac OS X - 10
+Windows - 10,Windows - 10
+Windows - XP,Windows - XP
+Android - 10,Android - 10
+Mac OS X - 10,Mac OS X - 10
+iOS - 13,iOS - 13
+iOS - 13,iOS - 13
+Android - 10,Android - 9
+iOS - 13,iOS - 13
+Android - 7,Android - 7
+Android - 9,Android - 10
+iOS - 13,iOS - 13

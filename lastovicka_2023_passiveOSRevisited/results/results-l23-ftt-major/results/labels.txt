@@ -1,0 +1,24 @@
+Android - 10
+Android - 4
+Android - 5
+Android - 6
+Android - 7
+Android - 8
+Android - 9
+Android - nan
+Chrome OS - nan
+Fedora - nan
+Linux - nan
+Mac OS X - 10
+Mac OS X - nan
+Ubuntu - nan
+Windows - 10
+Windows - 7
+Windows - 8
+Windows - Vista
+Windows - XP
+Windows - nan
+iOS - 10
+iOS - 12
+iOS - 13
+iOS - nan

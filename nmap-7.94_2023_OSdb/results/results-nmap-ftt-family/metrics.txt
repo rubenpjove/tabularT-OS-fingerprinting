@@ -1,0 +1,14 @@
+Accuracy: 0.9235
+Balanced Accuracy: 0.9315
+
+Precision (weighted): 0.9374
+Recall (weighted): 0.9235
+F1-score (weighted): 0.9223
+
+Precision (macro): 0.9151
+Recall (macro): 0.9315
+F1-score (macro): 0.9153
+
+Precision (micro): 0.9235
+Recall (micro): 0.9235
+F1-score (micro): 0.9235

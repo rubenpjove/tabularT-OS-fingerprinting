@@ -1,0 +1,71 @@
+cesga/2020 unloaded
+        Preparing the environment for use of the CESGA 2022 software stack.
+        Please rebuild modules cache: module --ignore-cache avail
+     
+cesga/2022 loaded
+python/3.10.8 loaded
+
+The following have been reloaded with a version change:
+  1) cesga/2020 => cesga/2022
+
+[I 2024-07-10 10:24:44,124] A new study created in memory with name: no-name-ff08047a-a97f-4ffa-a552-44a1c7f854fb
+[I 2024-07-10 10:54:09,141] Trial 0 finished with value: 0.9829239353328472 and parameters: {'learning_rate': 0.0013292918943162175, 'embedding_dim': 16, 'depth': 4, 'heads': 2, 'attn_dropout': 0.05, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'batch_size': 512, 'imputer_strategy': 'mean', 'scaler': 'RobustScaler'}. Best is trial 0 with value: 0.9829239353328472.
+[I 2024-07-10 11:36:11,024] Trial 1 finished with value: 0.9779547253759129 and parameters: {'learning_rate': 0.0019762189340280074, 'embedding_dim': 32, 'depth': 2, 'heads': 4, 'attn_dropout': 0.15000000000000002, 'ff_dropout': 0.25, 'use_shared_categ_embed': True, 'batch_size': 256, 'imputer_strategy': 'mean', 'scaler': 'MinMaxScaler'}. Best is trial 0 with value: 0.9829239353328472.
+[I 2024-07-10 13:12:34,482] Trial 2 finished with value: 0.9761827764035811 and parameters: {'learning_rate': 0.0008200518402245837, 'embedding_dim': 32, 'depth': 4, 'heads': 2, 'attn_dropout': 0.25, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'batch_size': 128, 'imputer_strategy': 'most_frequent', 'scaler': 'MinMaxScaler'}. Best is trial 0 with value: 0.9829239353328472.
+[I 2024-07-10 13:29:33,963] Trial 3 finished with value: 0.9781528062714354 and parameters: {'learning_rate': 0.00621870472776908, 'embedding_dim': 16, 'depth': 2, 'heads': 2, 'attn_dropout': 0.15000000000000002, 'ff_dropout': 0.2, 'use_shared_categ_embed': False, 'batch_size': 512, 'imputer_strategy': 'median', 'scaler': 'StandardScaler'}. Best is trial 0 with value: 0.9829239353328472.
+[I 2024-07-10 15:11:59,400] Trial 4 finished with value: 0.9760340713760176 and parameters: {'learning_rate': 0.00010388823104027947, 'embedding_dim': 16, 'depth': 5, 'heads': 8, 'attn_dropout': 0.05, 'ff_dropout': 0.2, 'use_shared_categ_embed': False, 'batch_size': 128, 'imputer_strategy': 'most_frequent', 'scaler': 'MinMaxScaler'}. Best is trial 0 with value: 0.9829239353328472.
+[I 2024-07-10 15:12:10,458] Trial 5 pruned. 
+[I 2024-07-10 15:16:14,437] Trial 6 pruned. 
+[I 2024-07-10 15:16:23,605] Trial 7 pruned. 
+[I 2024-07-10 16:12:28,385] Trial 8 finished with value: 0.9849562624593367 and parameters: {'learning_rate': 0.000715354779469316, 'embedding_dim': 32, 'depth': 4, 'heads': 2, 'attn_dropout': 0.15000000000000002, 'ff_dropout': 0.5, 'use_shared_categ_embed': True, 'batch_size': 256, 'imputer_strategy': 'median', 'scaler': 'StandardScaler'}. Best is trial 8 with value: 0.9849562624593367.
+[I 2024-07-10 16:12:49,047] Trial 9 pruned. 
+[I 2024-07-10 16:17:34,859] Trial 10 pruned. 
+[I 2024-07-10 16:17:51,983] Trial 11 pruned. 
+[I 2024-07-10 16:18:13,774] Trial 12 pruned. 
+[I 2024-07-10 16:20:25,565] Trial 13 pruned. 
+[I 2024-07-10 16:20:53,229] Trial 14 pruned. 
+[I 2024-07-10 16:21:17,173] Trial 15 pruned. 
+[I 2024-07-10 16:24:41,924] Trial 16 pruned. 
+[I 2024-07-10 17:35:26,065] Trial 17 finished with value: 0.5807930622544125 and parameters: {'learning_rate': 0.003539166910822011, 'embedding_dim': 32, 'depth': 3, 'heads': 4, 'attn_dropout': 0.05, 'ff_dropout': 0.05, 'use_shared_categ_embed': True, 'batch_size': 128, 'imputer_strategy': 'most_frequent', 'scaler': 'StandardScaler'}. Best is trial 8 with value: 0.9849562624593367.
+[I 2024-07-10 17:35:57,773] Trial 18 pruned. 
+[I 2024-07-10 17:36:30,043] Trial 19 pruned. 
+[I 2024-07-10 17:36:46,376] Trial 20 pruned. 
+[I 2024-07-10 17:36:58,748] Trial 21 pruned. 
+[I 2024-07-10 17:37:33,354] Trial 22 pruned. 
+[I 2024-07-10 17:37:50,204] Trial 23 pruned. 
+[I 2024-07-10 17:39:21,992] Trial 24 pruned. 
+[I 2024-07-10 17:39:33,710] Trial 25 pruned. 
+[I 2024-07-10 17:39:54,269] Trial 26 pruned. 
+[I 2024-07-10 17:40:19,758] Trial 27 pruned. 
+[I 2024-07-10 17:41:03,447] Trial 28 pruned. 
+[I 2024-07-10 17:41:30,579] Trial 29 pruned. 
+[I 2024-07-10 17:41:42,896] Trial 30 pruned. 
+[I 2024-07-10 17:41:57,135] Trial 31 pruned. 
+[I 2024-07-10 17:49:07,791] Trial 32 pruned. 
+[I 2024-07-10 17:49:14,762] Trial 33 pruned. 
+[I 2024-07-10 17:49:27,235] Trial 34 pruned. 
+[I 2024-07-10 17:50:18,520] Trial 35 pruned. 
+[I 2024-07-10 17:50:33,582] Trial 36 pruned. 
+[I 2024-07-10 17:51:47,671] Trial 37 pruned. 
+[I 2024-07-10 17:51:57,084] Trial 38 pruned. 
+[I 2024-07-10 18:04:14,115] Trial 39 pruned. 
+[I 2024-07-10 18:04:26,461] Trial 40 pruned. 
+[I 2024-07-10 18:25:40,831] Trial 41 pruned. 
+[I 2024-07-10 18:25:52,158] Trial 42 pruned. 
+[I 2024-07-10 18:26:05,431] Trial 43 pruned. 
+[I 2024-07-10 19:08:53,401] Trial 44 finished with value: 0.9805569082524441 and parameters: {'learning_rate': 0.0032935634665172673, 'embedding_dim': 16, 'depth': 6, 'heads': 8, 'attn_dropout': 0.25, 'ff_dropout': 0.35000000000000003, 'use_shared_categ_embed': True, 'batch_size': 512, 'imputer_strategy': 'most_frequent', 'scaler': 'StandardScaler'}. Best is trial 8 with value: 0.9849562624593367.
+[I 2024-07-10 19:09:15,113] Trial 45 pruned. 
+[I 2024-07-10 19:09:23,534] Trial 46 pruned. 
+[I 2024-07-10 19:09:31,933] Trial 47 pruned. 
+[I 2024-07-10 19:36:32,504] Trial 48 pruned. 
+[I 2024-07-10 19:36:52,844] Trial 49 pruned. 
+[I 2024-07-10 19:37:09,636] Trial 50 pruned. 
+[I 2024-07-10 19:37:28,288] Trial 51 pruned. 
+[I 2024-07-10 19:37:38,035] Trial 52 pruned. 
+[I 2024-07-10 20:30:46,654] Trial 53 pruned. 
+[I 2024-07-10 20:31:09,079] Trial 54 pruned. 
+[I 2024-07-10 20:31:18,341] Trial 55 pruned. 
+[I 2024-07-10 20:32:02,434] Trial 56 pruned. 
+[I 2024-07-10 20:32:13,908] Trial 57 pruned. 
+[I 2024-07-10 20:32:24,111] Trial 58 pruned. 
+[I 2024-07-10 20:32:57,773] Trial 59 pruned. 

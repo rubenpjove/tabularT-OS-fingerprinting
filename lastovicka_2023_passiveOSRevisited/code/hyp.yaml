@@ -1,0 +1,28 @@
+transformer_type : 'tabt'
+classes_detail : "minor"
+
+dataset_path : "/lastovicka_2023_passiveOSRevisited/dataset/lastovicka_2023_passiveOSRevisited.csv"
+
+optuna_trials : 60
+optuna_jobs : 1
+CV_folds : 10
+epochs : 200
+early_stopping_rounds : 15
+
+batch_size : [128, 256, 512]
+
+learning_rate_min : 0.0001
+learning_rate_max : 0.1
+embedding_dim : [16, 32]
+depth_min : 2
+depth_max : 6
+heads_min : 2
+heads_max : 8
+heads_step : 2
+attn_dropout_min : 0.05
+attn_dropout_max : 0.5
+attn_dropout_step : 0.1
+ff_dropout_min : 0.05
+ff_dropout_max : 0.5
+ff_dropout_step : 0.05
+use_shared_categ_embed : [True, False]

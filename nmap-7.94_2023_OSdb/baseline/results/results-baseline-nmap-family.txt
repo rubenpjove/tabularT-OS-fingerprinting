@@ -1,0 +1,83 @@
+slurmstepd: info: Setting TMPDIR to /scratch/7880627. Previous errors about TMPDIR can be discarded
+OS target
+Linux      4214
+Windows    3967
+iOS        3871
+macOS      3869
+BSD        3837
+Solaris     830
+Android     393
+Name: count, dtype: int64
+Number of examples/rows: 20,981
+Number of features: 256
+Number of unique values in OS target column: 7
+kNN: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'minkowski', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}
+RF: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+MLP: {'activation': 'relu', 'alpha': 0.0001, 'batch_size': 'auto', 'beta_1': 0.9, 'beta_2': 0.999, 'early_stopping': False, 'epsilon': 1e-08, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'learning_rate_init': 0.001, 'max_fun': 15000, 'max_iter': 200, 'momentum': 0.9, 'n_iter_no_change': 10, 'nesterovs_momentum': True, 'power_t': 0.5, 'random_state': 42, 'shuffle': True, 'solver': 'adam', 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': False, 'warm_start': False}
+
+
+kNN: 0.9123
+kNN: 0.9023
+kNN: 0.9061
+kNN: 0.9080
+kNN: 0.9104
+kNN: 0.9152
+kNN: 0.9090
+kNN: 0.9223
+kNN: 0.9018
+kNN: 0.9128
+RF: 0.9166
+RF: 0.9142
+RF: 0.9223
+RF: 0.9118
+RF: 0.9094
+RF: 0.9199
+RF: 0.9104
+RF: 0.9218
+RF: 0.9171
+RF: 0.9199
+MLP: 0.9190
+MLP: 0.9180
+MLP: 0.9175
+MLP: 0.9185
+MLP: 0.9094
+MLP: 0.9156
+MLP: 0.9156
+MLP: 0.9256
+MLP: 0.9013
+MLP: 0.9247
+
+
+kNN accuracy: 0.9100
+kNN balanced_accuracy: 0.9231
+kNN precision: 0.9123
+kNN recall: 0.9100
+kNN f1_score: 0.9105
+kNN macro_precision: 0.8937
+kNN macro_recall: 0.9231
+kNN macro_f1_score: 0.9054
+kNN micro_precision: 0.9100
+kNN micro_recall: 0.9100
+kNN micro_f1_score: 0.9100
+RF accuracy: 0.9164
+RF balanced_accuracy: 0.9254
+RF precision: 0.9237
+RF recall: 0.9164
+RF f1_score: 0.9162
+RF macro_precision: 0.8923
+RF macro_recall: 0.9254
+RF macro_f1_score: 0.9019
+RF micro_precision: 0.9164
+RF micro_recall: 0.9164
+RF micro_f1_score: 0.9164
+MLP accuracy: 0.9165
+MLP balanced_accuracy: 0.9270
+MLP precision: 0.9350
+MLP recall: 0.9165
+MLP f1_score: 0.9162
+MLP macro_precision: 0.8982
+MLP macro_recall: 0.9270
+MLP macro_f1_score: 0.8993
+MLP micro_precision: 0.9165
+MLP micro_recall: 0.9165
+MLP micro_f1_score: 0.9165

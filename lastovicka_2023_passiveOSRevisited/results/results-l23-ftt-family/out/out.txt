@@ -1,0 +1,592 @@
+slurmstepd: info: Setting TMPDIR to /scratch/7864052. Previous errors about TMPDIR can be discarded
+OS target
+Windows     20174
+Android     10289
+iOS          8840
+Mac OS X     5324
+Linux        2386
+Name: count, dtype: int64
+Number of examples/rows: 47,013
+Number of features: 40
+Number of unique values in OS target column: 5
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 2.3505859375 MB
+Cached memory: 22.0 MB
+FOLD 2/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 44.0 MB
+FOLD 3/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 44.0 MB
+FOLD 5/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 44.0 MB
+FOLD 6/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 46.0 MB
+FOLD 7/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 46.0 MB
+FOLD 8/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 46.0 MB
+FOLD 10/10
+Allocated memory: 25.7490234375 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.93115234375 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 3/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 4/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 5/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 6/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 7/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 64.0 MB
+FOLD 8/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 9/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 62.0 MB
+FOLD 10/10
+Allocated memory: 34.9775390625 MB
+Cached memory: 64.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.03173828125 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 64.0 MB
+FOLD 3/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 64.0 MB
+FOLD 4/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 64.0 MB
+FOLD 5/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 64.0 MB
+FOLD 6/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 66.0 MB
+FOLD 7/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 66.0 MB
+FOLD 8/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 64.0 MB
+FOLD 9/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 66.0 MB
+FOLD 10/10
+Allocated memory: 35.36865234375 MB
+Cached memory: 66.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.5556640625 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 3/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 4/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 5/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 6/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 7/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 8/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 9/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+FOLD 10/10
+Allocated memory: 25.533203125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.740234375 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 3/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 4/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 5/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 6/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 7/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 8/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 9/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+FOLD 10/10
+Allocated memory: 26.42041015625 MB
+Cached memory: 44.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.21923828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.99365234375 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 62.0 MB
+FOLD 3/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 64.0 MB
+FOLD 4/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 64.0 MB
+FOLD 5/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 62.0 MB
+FOLD 6/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 62.0 MB
+FOLD 7/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 62.0 MB
+FOLD 8/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 64.0 MB
+FOLD 9/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 62.0 MB
+FOLD 10/10
+Allocated memory: 35.2275390625 MB
+Cached memory: 62.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6318359375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.03173828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6923828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.25732421875 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 60.0 MB
+FOLD 3/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 60.0 MB
+FOLD 4/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 58.0 MB
+FOLD 5/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 60.0 MB
+FOLD 6/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 58.0 MB
+FOLD 7/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 60.0 MB
+FOLD 8/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 58.0 MB
+FOLD 9/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 60.0 MB
+FOLD 10/10
+Allocated memory: 36.28955078125 MB
+Cached memory: 60.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.5556640625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.7392578125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.5869140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6943359375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.35107421875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6025390625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.0126953125 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 3/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 4/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 5/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 6/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 7/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 8/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 9/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+FOLD 10/10
+Allocated memory: 35.29443359375 MB
+Cached memory: 62.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.662109375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.701171875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6943359375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.701171875 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 26.2470703125 MB
+Cached memory: 46.0 MB
+FOLD 3/10
+Allocated memory: 26.2470703125 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 26.2470703125 MB
+Cached memory: 46.0 MB
+FOLD 5/10
+Allocated memory: 26.2470703125 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.09765625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.625 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 3/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 5/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 6/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 7/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 8/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+FOLD 10/10
+Allocated memory: 25.875 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.623046875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6455078125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6455078125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.25732421875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.44482421875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6318359375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.701171875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.9658203125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6015625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.89990234375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.16357421875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6005859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6630859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.9658203125 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 3/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 4/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 5/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 6/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 7/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 8/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 9/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+FOLD 10/10
+Allocated memory: 35.10693359375 MB
+Cached memory: 64.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.1064453125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6923828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.701171875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.0595703125 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 62.0 MB
+FOLD 3/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 62.0 MB
+FOLD 4/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 62.0 MB
+FOLD 5/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 64.0 MB
+FOLD 6/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 64.0 MB
+FOLD 7/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 64.0 MB
+FOLD 8/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 62.0 MB
+FOLD 9/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 64.0 MB
+FOLD 10/10
+Allocated memory: 35.4892578125 MB
+Cached memory: 64.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.09765625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.25390625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.7861328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.7861328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6005859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6005859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6025390625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.96240234375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.09423828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.21923828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6318359375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 20.89990234375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6318359375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.7861328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6455078125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 18.6025390625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 21.09765625 MB
+Cached memory: 42.0 MB
+Study statistics: 
+  Number of finished trials:  60
+  Number of pruned trials:  49
+  Number of complete trials:  11
+Best trial:
+  Value:  0.9852164732220533
+  Params: 
+    learning_rate: 0.0010548702714918063
+    embedding_dim: 32
+    depth: 6
+    heads: 4
+    attn_dropout: 0.35000000000000003
+    ff_dropout: 0.45
+    use_shared_categ_embed: True
+    n_layers: 2
+    n_units_l0: 5
+    n_units_l1: 5
+    mlp_act: relu
+    batch_size: 512
+    imputer_strategy: mean
+    scaler: RobustScaler
+  User attrs:
+    training_time: 222.63341665267944
+    inference_time: 0.5742409229278564
+    num_parameters: 1309061
+    model_memory_size: 5236396
+FINAL RESULTS
+Metric - F1 score (micro):  0.950441348505796
+Training time:  245.44729495048523
+Inference time:  0.6809639930725098
+Number of parameters:  1309061
+Model memory size: 4.99 MB

@@ -1,0 +1,4 @@
+transformer_type : 'baseline'
+classes_detail : "family"
+
+dataset_path : "/lastovicka_2023_passiveOSRevisited/dataset/lastovicka_2023_passiveOSRevisited.csv"

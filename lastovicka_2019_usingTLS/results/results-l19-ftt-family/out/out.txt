@@ -1,0 +1,698 @@
+slurmstepd: info: Setting TMPDIR to /scratch/7967880. Previous errors about TMPDIR can be discarded
+Number of examples/rows: 20,733
+Number of features: 154
+Number of examples/rows: 20733
+Number of features: 154
+Features with NaNs:
+SYN size                           float64      no NaNs
+TCP win                            float64      no NaNs
+TCP SYN TTL                        float64      no NaNs
+TLS Client Version                 int64        no NaNs
+TLS EC Point Formats               int64        no NaNs
+Client Cipher Suites_byte_0        int64        no NaNs
+Client Cipher Suites_byte_1        int64        no NaNs
+Client Cipher Suites_byte_2        int64        no NaNs
+Client Cipher Suites_byte_3        int64        no NaNs
+Client Cipher Suites_byte_4        int64        no NaNs
+Client Cipher Suites_byte_5        int64        no NaNs
+Client Cipher Suites_byte_6        int64        no NaNs
+Client Cipher Suites_byte_7        int64        no NaNs
+Client Cipher Suites_byte_8        int64        no NaNs
+Client Cipher Suites_byte_9        int64        no NaNs
+Client Cipher Suites_byte_10       int64        no NaNs
+Client Cipher Suites_byte_11       int64        no NaNs
+Client Cipher Suites_byte_12       int64        no NaNs
+Client Cipher Suites_byte_13       int64        no NaNs
+Client Cipher Suites_byte_14       int64        no NaNs
+Client Cipher Suites_byte_15       int64        no NaNs
+TLS Extension Types_byte_0         int64        no NaNs
+TLS Extension Types_byte_1         int64        no NaNs
+TLS Extension Types_byte_2         int64        no NaNs
+TLS Extension Types_byte_3         int64        no NaNs
+TLS Extension Types_byte_4         int64        no NaNs
+TLS Extension Types_byte_5         int64        no NaNs
+TLS Extension Types_byte_6         int64        no NaNs
+TLS Extension Types_byte_7         int64        no NaNs
+TLS Extension Types_byte_8         int64        no NaNs
+TLS Extension Types_byte_9         int64        no NaNs
+TLS Extension Types_byte_10        int64        no NaNs
+TLS Extension Types_byte_11        int64        no NaNs
+TLS Extension Types_byte_12        int64        no NaNs
+TLS Extension Types_byte_13        int64        no NaNs
+TLS Extension Types_byte_14        int64        no NaNs
+TLS Extension Types_byte_15        int64        no NaNs
+TLS Extension Types_byte_16        int64        no NaNs
+TLS Extension Types_byte_17        int64        no NaNs
+TLS Extension Types_byte_18        int64        no NaNs
+TLS Extension Types_byte_19        int64        no NaNs
+TLS Extension Types_byte_20        int64        no NaNs
+TLS Extension Types_byte_21        int64        no NaNs
+TLS Extension Types_byte_22        int64        no NaNs
+TLS Extension Types_byte_23        int64        no NaNs
+TLS Extension Types_byte_24        int64        no NaNs
+TLS Extension Types_byte_25        int64        no NaNs
+TLS Extension Types_byte_26        int64        no NaNs
+TLS Extension Types_byte_27        int64        no NaNs
+TLS Extension Types_byte_28        int64        no NaNs
+TLS Extension Types_byte_29        int64        no NaNs
+TLS Extension Types_byte_30        int64        no NaNs
+TLS Extension Types_byte_31        int64        no NaNs
+TLS Extension Types_byte_32        int64        no NaNs
+TLS Extension Types_byte_33        int64        no NaNs
+TLS Extension Types_byte_34        int64        no NaNs
+TLS Extension Types_byte_35        int64        no NaNs
+TLS Extension Types_byte_36        int64        no NaNs
+TLS Extension Types_byte_37        int64        no NaNs
+TLS Extension Types_byte_38        int64        no NaNs
+TLS Extension Types_byte_39        int64        no NaNs
+TLS Extension Types_byte_40        int64        no NaNs
+TLS Extension Types_byte_41        int64        no NaNs
+TLS Extension Types_byte_42        int64        no NaNs
+TLS Extension Types_byte_43        int64        no NaNs
+TLS Extension Types_byte_44        int64        no NaNs
+TLS Extension Types_byte_45        int64        no NaNs
+TLS Extension Types_byte_46        int64        no NaNs
+TLS Extension Types_byte_47        int64        no NaNs
+TLS Extension Types_byte_48        int64        no NaNs
+TLS Extension Types_byte_49        int64        no NaNs
+TLS Extension Types_byte_50        int64        no NaNs
+TLS Extension Types_byte_51        int64        no NaNs
+TLS Extension Types_byte_52        int64        no NaNs
+TLS Extension Types_byte_53        int64        no NaNs
+TLS Extension Types_byte_54        int64        no NaNs
+TLS Extension Types_byte_55        int64        no NaNs
+TLS Extension Lengths_byte_0       int64        no NaNs
+TLS Extension Lengths_byte_1       int64        no NaNs
+TLS Extension Lengths_byte_2       int64        no NaNs
+TLS Extension Lengths_byte_3       int64        no NaNs
+TLS Extension Lengths_byte_4       int64        no NaNs
+TLS Extension Lengths_byte_5       int64        no NaNs
+TLS Extension Lengths_byte_6       int64        no NaNs
+TLS Extension Lengths_byte_7       int64        no NaNs
+TLS Extension Lengths_byte_8       int64        no NaNs
+TLS Extension Lengths_byte_9       int64        no NaNs
+TLS Extension Lengths_byte_10      int64        no NaNs
+TLS Extension Lengths_byte_11      int64        no NaNs
+TLS Extension Lengths_byte_12      int64        no NaNs
+TLS Extension Lengths_byte_13      int64        no NaNs
+TLS Extension Lengths_byte_14      int64        no NaNs
+TLS Extension Lengths_byte_15      int64        no NaNs
+TLS Extension Lengths_byte_16      int64        no NaNs
+TLS Extension Lengths_byte_17      int64        no NaNs
+TLS Extension Lengths_byte_18      int64        no NaNs
+TLS Extension Lengths_byte_19      int64        no NaNs
+TLS Extension Lengths_byte_20      int64        no NaNs
+TLS Extension Lengths_byte_21      int64        no NaNs
+TLS Extension Lengths_byte_22      int64        no NaNs
+TLS Extension Lengths_byte_23      int64        no NaNs
+TLS Extension Lengths_byte_24      int64        no NaNs
+TLS Extension Lengths_byte_25      int64        no NaNs
+TLS Extension Lengths_byte_26      int64        no NaNs
+TLS Extension Lengths_byte_27      int64        no NaNs
+TLS Extension Lengths_byte_28      int64        no NaNs
+TLS Extension Lengths_byte_29      int64        no NaNs
+TLS Extension Lengths_byte_30      int64        no NaNs
+TLS Extension Lengths_byte_31      int64        no NaNs
+TLS Extension Lengths_byte_32      int64        no NaNs
+TLS Extension Lengths_byte_33      int64        no NaNs
+TLS Extension Lengths_byte_34      int64        no NaNs
+TLS Extension Lengths_byte_35      int64        no NaNs
+TLS Extension Lengths_byte_36      int64        no NaNs
+TLS Extension Lengths_byte_37      int64        no NaNs
+TLS Extension Lengths_byte_38      int64        no NaNs
+TLS Extension Lengths_byte_39      int64        no NaNs
+TLS Extension Lengths_byte_40      int64        no NaNs
+TLS Extension Lengths_byte_41      int64        no NaNs
+TLS Extension Lengths_byte_42      int64        no NaNs
+TLS Extension Lengths_byte_43      int64        no NaNs
+TLS Extension Lengths_byte_44      int64        no NaNs
+TLS Extension Lengths_byte_45      int64        no NaNs
+TLS Extension Lengths_byte_46      int64        no NaNs
+TLS Extension Lengths_byte_47      int64        no NaNs
+TLS Extension Lengths_byte_48      int64        no NaNs
+TLS Extension Lengths_byte_49      int64        no NaNs
+TLS Extension Lengths_byte_50      int64        no NaNs
+TLS Extension Lengths_byte_51      int64        no NaNs
+TLS Extension Lengths_byte_52      int64        no NaNs
+TLS Extension Lengths_byte_53      int64        no NaNs
+TLS Extension Lengths_byte_54      int64        no NaNs
+TLS Extension Lengths_byte_55      int64        no NaNs
+TLS Elliptic Curves_byte_0         int64        no NaNs
+TLS Elliptic Curves_byte_1         int64        no NaNs
+TLS Elliptic Curves_byte_2         int64        no NaNs
+TLS Elliptic Curves_byte_3         int64        no NaNs
+TLS Elliptic Curves_byte_4         int64        no NaNs
+TLS Elliptic Curves_byte_5         int64        no NaNs
+TLS Elliptic Curves_byte_6         int64        no NaNs
+TLS Elliptic Curves_byte_7         int64        no NaNs
+TLS Elliptic Curves_byte_8         int64        no NaNs
+TLS Elliptic Curves_byte_9         int64        no NaNs
+TLS Elliptic Curves_byte_10        int64        no NaNs
+TLS Elliptic Curves_byte_11        int64        no NaNs
+TLS Elliptic Curves_byte_12        int64        no NaNs
+TLS Elliptic Curves_byte_13        int64        no NaNs
+TLS Elliptic Curves_byte_14        int64        no NaNs
+TLS Elliptic Curves_byte_15        int64        no NaNs
+Label_0                            float64      no NaNs
+Label_1                            float64      no NaNs
+Label_2                            float64      no NaNs
+Label_3                            float64      no NaNs
+Label_4                            float64      no NaNs
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 0.25244140625 MB
+Cached memory: 2.0 MB
+FOLD 2/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 3/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 4/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 5/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 6/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 7/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 8/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 9/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+FOLD 10/10
+Allocated memory: 17.25146484375 MB
+Cached memory: 44.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.73388671875 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 3/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 5/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 6/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 7/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 8/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+FOLD 10/10
+Allocated memory: 18.1826171875 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.83447265625 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 3/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 5/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 6/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 7/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 8/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+FOLD 10/10
+Allocated memory: 18.5810546875 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.45751953125 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 3/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 4/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 5/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 6/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 7/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 8/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 9/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+FOLD 10/10
+Allocated memory: 17.076171875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.64208984375 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 50.0 MB
+FOLD 3/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 48.0 MB
+FOLD 4/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 48.0 MB
+FOLD 5/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 50.0 MB
+FOLD 6/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 48.0 MB
+FOLD 7/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 48.0 MB
+FOLD 8/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 48.0 MB
+FOLD 10/10
+Allocated memory: 17.80810546875 MB
+Cached memory: 48.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.02197265625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.79638671875 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.53369140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.83447265625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.59423828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.06005859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.45751953125 MB
+Cached memory: 44.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.64111328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.48876953125 MB
+Cached memory: 44.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.59619140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.15380859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50439453125 MB
+Cached memory: 44.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.8154296875 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 3/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 4/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 5/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 6/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 7/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 8/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 9/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+FOLD 10/10
+Allocated memory: 18.5068359375 MB
+Cached memory: 44.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.56396484375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.60302734375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.59619140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.60302734375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.900390625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.52685546875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.52490234375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.54736328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.54736328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.06005859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.24755859375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.53369140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.60302734375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.7685546875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50341796875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.70263671875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.96630859375 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 3/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 5/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 6/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 7/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 8/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+FOLD 10/10
+Allocated memory: 19.10498046875 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50244140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.56494140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.7685546875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.9091796875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.59423828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.60302734375 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.8623046875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.900390625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.056640625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.68798828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.68798828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50244140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50244140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50439453125 MB
+Cached memory: 44.0 MB
+FOLD 2/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 3/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 4/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 5/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 6/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 7/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 8/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 9/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+FOLD 10/10
+Allocated memory: 17.263671875 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.76513671875 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.89697265625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 17.02197265625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.53369140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.70263671875 MB
+Cached memory: 44.0 MB
+FOLD 2/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 3/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 4/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 5/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 6/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 7/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 8/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 9/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+FOLD 10/10
+Allocated memory: 18.0576171875 MB
+Cached memory: 48.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.52685546875 MB
+Cached memory: 42.0 MB
+FOLD 2/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+FOLD 3/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+FOLD 4/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+FOLD 5/10
+Allocated memory: 17.3515625 MB
+Cached memory: 44.0 MB
+FOLD 6/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+FOLD 7/10
+Allocated memory: 17.3515625 MB
+Cached memory: 44.0 MB
+FOLD 8/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+FOLD 9/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+FOLD 10/10
+Allocated memory: 17.3515625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.53369140625 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.68798828125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.54736328125 MB
+Cached memory: 42.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.50439453125 MB
+Cached memory: 46.0 MB
+CUDA available: 5
+FOLD 1/10
+Allocated memory: 16.900390625 MB
+Cached memory: 42.0 MB
+Study statistics: 
+  Number of finished trials:  60
+  Number of pruned trials:  50
+  Number of complete trials:  10
+Best trial:
+  Value:  0.9278929638459955
+  Params: 
+    learning_rate: 0.0019762189340280074
+    embedding_dim: 32
+    depth: 2
+    heads: 4
+    attn_dropout: 0.15000000000000002
+    ff_dropout: 0.25
+    use_shared_categ_embed: True
+    batch_size: 256
+    imputer_strategy: mean
+    scaler: MinMaxScaler
+  User attrs:
+    training_time: 51.58537316322327
+    inference_time: 0.1264023780822754
+    num_parameters: 124837
+    model_memory_size: 500516
+FINAL RESULTS
+Metric - F1 score (micro):  0.9069206655413552
+Training time:  55.28598690032959
+Inference time:  0.2923765182495117
+Number of parameters:  124837
+Model memory size: 0.48 MB

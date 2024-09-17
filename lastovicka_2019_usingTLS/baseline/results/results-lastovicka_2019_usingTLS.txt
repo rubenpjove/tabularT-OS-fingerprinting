@@ -1,0 +1,70 @@
+kNN: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'minkowski', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}
+RF: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+MLP: {'activation': 'relu', 'alpha': 0.0001, 'batch_size': 'auto', 'beta_1': 0.9, 'beta_2': 0.999, 'early_stopping': False, 'epsilon': 1e-08, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'learning_rate_init': 0.001, 'max_fun': 15000, 'max_iter': 200, 'momentum': 0.9, 'n_iter_no_change': 10, 'nesterovs_momentum': True, 'power_t': 0.5, 'random_state': 42, 'shuffle': True, 'solver': 'adam', 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': False, 'warm_start': False}
+
+
+kNN: 0.6104
+kNN: 0.5945
+kNN: 0.5844
+kNN: 0.5808
+kNN: 0.5904
+kNN: 0.5991
+kNN: 0.5861
+kNN: 0.5866
+kNN: 0.6030
+kNN: 0.5924
+RF: 0.8877
+RF: 0.8867
+RF: 0.8848
+RF: 0.8765
+RF: 0.8746
+RF: 0.8862
+RF: 0.8842
+RF: 0.8895
+RF: 0.8808
+RF: 0.8910
+MLP: 0.9122
+MLP: 0.9137
+MLP: 0.8934
+MLP: 0.8857
+MLP: 0.8852
+MLP: 0.9026
+MLP: 0.8915
+MLP: 0.8900
+MLP: 0.9093
+MLP: 0.9127
+
+
+kNN accuracy: 0.5928
+kNN balanced_accuracy: 0.5617
+kNN precision: 0.5999
+kNN recall: 0.5928
+kNN f1_score: 0.5811
+kNN macro_precision: 0.6201
+kNN macro_recall: 0.5617
+kNN macro_f1_score: 0.5766
+kNN micro_precision: 0.5928
+kNN micro_recall: 0.5928
+kNN micro_f1_score: 0.5928
+RF accuracy: 0.8842
+RF balanced_accuracy: 0.7826
+RF precision: 0.8757
+RF recall: 0.8842
+RF f1_score: 0.8793
+RF macro_precision: 0.7938
+RF macro_recall: 0.7826
+RF macro_f1_score: 0.7866
+RF micro_precision: 0.8842
+RF micro_recall: 0.8842
+RF micro_f1_score: 0.8842
+MLP accuracy: 0.8996
+MLP balanced_accuracy: 0.8061
+MLP precision: 0.8968
+MLP recall: 0.8996
+MLP f1_score: 0.8945
+MLP macro_precision: 0.8562
+MLP macro_recall: 0.8061
+MLP macro_f1_score: 0.8222
+MLP micro_precision: 0.8996
+MLP micro_recall: 0.8996
+MLP micro_f1_score: 0.8996

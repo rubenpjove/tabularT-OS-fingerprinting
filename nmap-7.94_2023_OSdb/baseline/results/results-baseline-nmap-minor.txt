@@ -1,0 +1,116 @@
+slurmstepd: info: Setting TMPDIR to /scratch/7880629. Previous errors about TMPDIR can be discarded
+OS target
+Linux - 2.6.X      2175
+Windows - XP       2043
+Linux - 3.X        1997
+iOS - 12.X         1650
+BSD - 7.X          1574
+Windows - 2000     1415
+macOS - 10.7.X     1226
+macOS - 10.5.X     1091
+Linux - nan         954
+Linux - 4.X         936
+macOS - 10.6.X      885
+BSD - 8.X           812
+iOS - 4.X           707
+Windows - nan       678
+Windows - 2003      636
+Solaris - 7         516
+BSD - 4.X           505
+Linux - 2.4.X       464
+Windows - 2008      464
+iOS - 6.X           461
+BSD - 6.X           441
+iOS - 5.X           317
+Solaris - nan       314
+Windows - 7         299
+BSD - nan           288
+Android - 2.X       287
+Windows - 3.X       283
+macOS - 10.9.X      283
+macOS - 10.8.X      280
+macOS - 10.10.X     271
+macOS - 10.11.X     271
+iOS - 9.X           265
+macOS - 10.12.X     264
+iOS - 8.X           263
+iOS - 7.X           259
+Windows - NT        233
+BSD - 5.X           217
+macOS - nan         205
+iOS - nan           110
+Android - nan       106
+Name: count, dtype: int64
+Number of examples/rows: 26,445
+Number of features: 256
+Number of unique values in OS target column: 40
+kNN: {'algorithm': 'auto', 'leaf_size': 30, 'metric': 'minkowski', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}
+RF: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+MLP: {'activation': 'relu', 'alpha': 0.0001, 'batch_size': 'auto', 'beta_1': 0.9, 'beta_2': 0.999, 'early_stopping': False, 'epsilon': 1e-08, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'learning_rate_init': 0.001, 'max_fun': 15000, 'max_iter': 200, 'momentum': 0.9, 'n_iter_no_change': 10, 'nesterovs_momentum': True, 'power_t': 0.5, 'random_state': 42, 'shuffle': True, 'solver': 'adam', 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': False, 'warm_start': False}
+
+
+kNN: 0.7422
+kNN: 0.7437
+kNN: 0.7440
+kNN: 0.7327
+kNN: 0.7437
+kNN: 0.7405
+kNN: 0.7617
+kNN: 0.7383
+kNN: 0.7462
+kNN: 0.7492
+RF: 0.7414
+RF: 0.7384
+RF: 0.7346
+RF: 0.7259
+RF: 0.7388
+RF: 0.7356
+RF: 0.7496
+RF: 0.7436
+RF: 0.7379
+RF: 0.7466
+MLP: 0.7365
+MLP: 0.7248
+MLP: 0.7263
+MLP: 0.7206
+MLP: 0.7278
+MLP: 0.7273
+MLP: 0.7375
+MLP: 0.7296
+MLP: 0.7247
+MLP: 0.7387
+
+
+kNN accuracy: 0.7442
+kNN balanced_accuracy: 0.6349
+kNN precision: 0.7668
+kNN recall: 0.7442
+kNN f1_score: 0.7492
+kNN macro_precision: 0.6164
+kNN macro_recall: 0.6349
+kNN macro_f1_score: 0.6158
+kNN micro_precision: 0.7442
+kNN micro_recall: 0.7442
+kNN micro_f1_score: 0.7442
+RF accuracy: 0.7392
+RF balanced_accuracy: 0.6019
+RF precision: 0.8176
+RF recall: 0.7392
+RF f1_score: 0.7566
+RF macro_precision: 0.6764
+RF macro_recall: 0.6019
+RF macro_f1_score: 0.6060
+RF micro_precision: 0.7392
+RF micro_recall: 0.7392
+RF micro_f1_score: 0.7392
+MLP accuracy: 0.7294
+MLP balanced_accuracy: 0.6067
+MLP precision: 0.8168
+MLP recall: 0.7294
+MLP f1_score: 0.7414
+MLP macro_precision: 0.6676
+MLP macro_recall: 0.6067
+MLP macro_f1_score: 0.5960
+MLP micro_precision: 0.7294
+MLP micro_recall: 0.7294
+MLP micro_f1_score: 0.7294
