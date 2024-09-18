@@ -19,9 +19,9 @@ pip install -r requirements.txt
 ## Datasets
 The datasets used in this project are not uploaded to this repository due to GitHub file size restrictions. They can be downloaded from the original sources, listed below:
 
-- [lastovicka_2023_passiveOSRevisited](https://zenodo.org/doi/10.5281/zenodo.7635137)
-- [lastovicka_2019_usingTLS](https://zenodo.org/doi/10.5281/zenodo.3461770)
-- [nmap-7.94_2023_OSdb](https://svn.nmap.org/nmap-releases/nmap-7.94/)
+- **`DAT1`**: [lastovicka_2023_passiveOSRevisited](https://zenodo.org/doi/10.5281/zenodo.7635137)
+- **`DAT2`**: [lastovicka_2019_usingTLS](https://zenodo.org/doi/10.5281/zenodo.3461770)
+- **`DAT3`**: [nmap-7.94_2023_OSdb](https://svn.nmap.org/nmap-releases/nmap-7.94/)
 
 ## Results
 The results of the experiments are documented in the Results Section. This includes performance metrics, visualizations, and analysis.
