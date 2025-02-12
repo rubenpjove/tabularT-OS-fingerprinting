@@ -3,7 +3,7 @@
 arXiv Preprint
 
 **Authors:** 
-[Rubén Pérez-Jove](https://linktr.ee/rubenpjove), [Alejandro Pazos](https://orcid.org/0000-0003-2324-238X), [Jose Vázquez-Naya](https://orcid.org/0000-0002-6194-5329)
+[Rubén Pérez-Jove](https://linktr.ee/rubenpjove), [Cristian R. Munteanu](https://orcid.org/0000-0002-5628-2268), [Alejandro Pazos](https://orcid.org/0000-0003-2324-238X), [Jose Vázquez-Naya](https://orcid.org/0000-0002-6194-5329)
 
 ## Description
 This project focuses on Operating System fingerprinting using [Tabular Transformers](https://github.com/lucidrains/tab-transformer-pytorch) with different datasets. The aim is to explore the application of advanced deep learning architectures in the field of network security. The repositoy is structured in different folders, according to the experiments executed on the three different datasets used.
